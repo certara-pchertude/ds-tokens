@@ -1,0 +1,925 @@
+{
+  "space": {
+    "alert": {
+      "padding-x": {
+        "$value": {
+          "Compact": "{space.unit.200}",
+          "Comfortable": "{space.unit.200}",
+          "Spacious": "{space.unit.200}"
+        },
+        "$type": "spacing"
+      },
+      "padding-y": {
+        "$value": {
+          "Compact": "{space.unit.200}",
+          "Comfortable": "{space.unit.200}",
+          "Spacious": "{space.unit.200}"
+        },
+        "$type": "spacing"
+      },
+      "gap-between": {
+        "$value": {
+          "Compact": "{space.unit.100}",
+          "Comfortable": "{space.unit.100}",
+          "Spacious": "{space.unit.100}"
+        },
+        "$type": "spacing"
+      }
+    },
+    "breadcrumb": {
+      "padding-x": {
+        "$value": {
+          "Compact": "{space.page.padding-x}",
+          "Comfortable": "{space.page.padding-x}",
+          "Spacious": "{space.page.padding-x}"
+        },
+        "$type": "spacing"
+      },
+      "padding-y": {
+        "$value": {
+          "Compact": "{space.unit.100}",
+          "Comfortable": "{space.unit.100}",
+          "Spacious": "{space.unit.100}"
+        },
+        "$type": "spacing"
+      },
+      "gap-between": {
+        "$value": {
+          "Compact": "{space.unit.150}",
+          "Comfortable": "{space.unit.150}",
+          "Spacious": "{space.unit.150}"
+        },
+        "$type": "spacing"
+      }
+    },
+    "badge": {
+      "gap-between": {
+        "$value": {
+          "Compact": "{space.unit.75}",
+          "Comfortable": "{space.unit.75}",
+          "Spacious": "{space.unit.75}"
+        },
+        "$type": "spacing"
+      },
+      "padding-x": {
+        "$value": {
+          "Compact": "{space.unit.50}",
+          "Comfortable": "{space.unit.50}",
+          "Spacious": "{space.unit.50}"
+        },
+        "$type": "spacing"
+      },
+      "padding-x-pill": {
+        "$value": {
+          "Compact": "{space.unit.75}",
+          "Comfortable": "{space.unit.75}",
+          "Spacious": "{space.unit.75}"
+        },
+        "$type": "spacing"
+      },
+      "padding-y": {
+        "$value": {
+          "Compact": "{space.unit.25}",
+          "Comfortable": "{space.unit.25}",
+          "Spacious": "{space.unit.25}"
+        },
+        "$type": "spacing"
+      }
+    },
+    "button": {
+      "all": {
+        "gap-outside": {
+          "$value": {
+            "Compact": "{space.unit.100}",
+            "Comfortable": "{space.unit.100}",
+            "Spacious": "{space.unit.100}"
+          },
+          "$type": "spacing",
+          "$description": "Place this variable on the parent's \"gap between\" when you have a group of buttons. Similar to margins for buttons"
+        },
+        "gap-between": {
+          "$value": {
+            "Compact": "{space.unit.75}",
+            "Comfortable": "{space.unit.75}",
+            "Spacious": "{space.unit.75}"
+          },
+          "$type": "spacing"
+        }
+      },
+      "sm": {
+        "gap-between": {
+          "$value": {
+            "Compact": "{space.button.all.gap-between}",
+            "Comfortable": "{space.button.all.gap-between}",
+            "Spacious": "{space.button.all.gap-between}"
+          },
+          "$type": "spacing"
+        },
+        "padding-x": {
+          "$value": {
+            "Compact": "{space.unit.100}",
+            "Comfortable": "{space.unit.100}",
+            "Spacious": "{space.unit.100}"
+          },
+          "$type": "spacing"
+        },
+        "padding-y": {
+          "$value": {
+            "Compact": "{space.unit.75}",
+            "Comfortable": "{space.unit.75}",
+            "Spacious": "{space.unit.75}"
+          },
+          "$type": "spacing"
+        }
+      },
+      "md": {
+        "gap-between": {
+          "$value": {
+            "Compact": "{space.button.all.gap-between}",
+            "Comfortable": "{space.button.all.gap-between}",
+            "Spacious": "{space.button.all.gap-between}"
+          },
+          "$type": "spacing"
+        },
+        "padding-x": {
+          "$value": {
+            "Compact": "{space.unit.150}",
+            "Comfortable": "{space.unit.150}",
+            "Spacious": "{space.unit.150}"
+          },
+          "$type": "spacing"
+        },
+        "padding-y": {
+          "$value": {
+            "Compact": "{space.unit.100}",
+            "Comfortable": "{space.unit.100}",
+            "Spacious": "{space.unit.100}"
+          },
+          "$type": "spacing"
+        }
+      },
+      "lg": {
+        "gap-between": {
+          "$value": {
+            "Compact": "{space.button.all.gap-between}",
+            "Comfortable": "{space.button.all.gap-between}",
+            "Spacious": "{space.button.all.gap-between}"
+          },
+          "$type": "spacing"
+        },
+        "padding-x": {
+          "$value": {
+            "Compact": "{space.unit.200}",
+            "Comfortable": "{space.unit.200}",
+            "Spacious": "{space.unit.200}"
+          },
+          "$type": "spacing"
+        },
+        "padding-y": {
+          "$value": {
+            "Compact": "{space.unit.100}",
+            "Comfortable": "{space.unit.100}",
+            "Spacious": "{space.unit.100}"
+          },
+          "$type": "spacing"
+        }
+      }
+    },
+    "container": {
+      "sm": {
+        "gap-between": {
+          "$value": {
+            "Compact": "{space.unit.75}",
+            "Comfortable": "{space.unit.75}",
+            "Spacious": "{space.unit.75}"
+          },
+          "$type": "spacing",
+          "$description": "cards, widget boxes"
+        },
+        "gap-outside": {
+          "$value": {
+            "Compact": "{space.unit.75}",
+            "Comfortable": "{space.unit.75}",
+            "Spacious": "{space.unit.75}"
+          },
+          "$type": "spacing",
+          "$description": "cards, widget boxes"
+        },
+        "padding-x": {
+          "$value": {
+            "Compact": "{space.unit.150}",
+            "Comfortable": "{space.unit.150}",
+            "Spacious": "{space.unit.150}"
+          },
+          "$type": "spacing",
+          "$description": "cards, widget boxes"
+        },
+        "padding-y": {
+          "$value": {
+            "Compact": "{space.unit.100}",
+            "Comfortable": "{space.unit.100}",
+            "Spacious": "{space.unit.100}"
+          },
+          "$type": "spacing",
+          "$description": "cards, widget boxes"
+        }
+      },
+      "md": {
+        "gap-between": {
+          "$value": {
+            "Compact": "{space.unit.100}",
+            "Comfortable": "{space.unit.100}",
+            "Spacious": "{space.unit.100}"
+          },
+          "$type": "spacing",
+          "$description": "cards, widget boxes"
+        },
+        "gap-outside": {
+          "$value": {
+            "Compact": "{space.unit.200}",
+            "Comfortable": "{space.unit.200}",
+            "Spacious": "{space.unit.200}"
+          },
+          "$type": "spacing",
+          "$description": "cards, widget boxes"
+        },
+        "padding-x": {
+          "$value": {
+            "Compact": "{space.unit.200}",
+            "Comfortable": "{space.unit.200}",
+            "Spacious": "{space.unit.200}"
+          },
+          "$type": "spacing",
+          "$description": "cards, widget boxes"
+        },
+        "padding-y": {
+          "$value": {
+            "Compact": "{space.unit.200}",
+            "Comfortable": "{space.unit.200}",
+            "Spacious": "{space.unit.200}"
+          },
+          "$type": "spacing",
+          "$description": "cards, widget boxes"
+        }
+      }
+    },
+    "form-error": {
+      "gap-between": {
+        "$value": {
+          "Compact": "{space.unit.75}",
+          "Comfortable": "{space.unit.75}",
+          "Spacious": "{space.unit.75}"
+        },
+        "$type": "spacing"
+      },
+      "padding-x": {
+        "$value": {
+          "Compact": "{space.unit.75}",
+          "Comfortable": "{space.unit.75}",
+          "Spacious": "{space.unit.75}"
+        },
+        "$type": "spacing"
+      },
+      "padding-y": {
+        "$value": {
+          "Compact": "{space.unit.75}",
+          "Comfortable": "{space.unit.75}",
+          "Spacious": "{space.unit.75}"
+        },
+        "$type": "spacing"
+      }
+    },
+    "input": {
+      "gap-between": {
+        "$value": {
+          "Compact": "{space.unit.100}",
+          "Comfortable": "{space.unit.100}",
+          "Spacious": "{space.unit.100}"
+        },
+        "$type": "spacing"
+      },
+      "gap-outside": {
+        "$value": {
+          "Compact": "{space.unit.300}",
+          "Comfortable": "{space.unit.300}",
+          "Spacious": "{space.unit.300}"
+        },
+        "$type": "spacing",
+        "$description": "Space between each form input element. Margin between form groups. Form field spacing."
+      },
+      "label-gap-x": {
+        "$value": {
+          "Compact": "{space.unit.200}",
+          "Comfortable": "{space.unit.200}",
+          "Spacious": "{space.unit.200}"
+        },
+        "$type": "spacing"
+      },
+      "label-gap-y": {
+        "$value": {
+          "Compact": "{space.unit.50}",
+          "Comfortable": "{space.unit.50}",
+          "Spacious": "{space.unit.50}"
+        },
+        "$type": "spacing"
+      },
+      "md-padding-x": {
+        "$value": {
+          "Compact": "{space.unit.150}",
+          "Comfortable": "{space.unit.150}",
+          "Spacious": "{space.unit.150}"
+        },
+        "$type": "spacing"
+      },
+      "md-padding-y": {
+        "$value": {
+          "Compact": "{space.unit.75}",
+          "Comfortable": "{space.unit.75}",
+          "Spacious": "{space.unit.75}"
+        },
+        "$type": "spacing"
+      },
+      "sm-padding-x": {
+        "$value": {
+          "Compact": "{space.unit.100}",
+          "Comfortable": "{space.unit.100}",
+          "Spacious": "{space.unit.100}"
+        },
+        "$type": "spacing"
+      },
+      "sm-padding-y": {
+        "$value": {
+          "Compact": "{space.unit.50}",
+          "Comfortable": "{space.unit.50}",
+          "Spacious": "{space.unit.50}"
+        },
+        "$type": "spacing"
+      },
+      "control-gap-outside": {
+        "$value": {
+          "Compact": "{space.unit.150}",
+          "Comfortable": "{space.unit.150}",
+          "Spacious": "{space.unit.150}"
+        },
+        "$type": "spacing",
+        "$description": "Spacing between radio and checkboxes"
+      }
+    },
+    "list-item": {
+      "gap-between": {
+        "$value": {
+          "Compact": "{space.unit.100}",
+          "Comfortable": "{space.unit.100}",
+          "Spacious": "{space.unit.100}"
+        },
+        "$type": "spacing"
+      },
+      "gap-outside": {
+        "$value": {
+          "Compact": "{space.unit.0}",
+          "Comfortable": "{space.unit.0}",
+          "Spacious": "{space.unit.0}"
+        },
+        "$type": "spacing"
+      },
+      "padding-x": {
+        "$value": {
+          "Compact": "{space.unit.150}",
+          "Comfortable": "{space.unit.150}",
+          "Spacious": "{space.unit.150}"
+        },
+        "$type": "spacing"
+      },
+      "md-padding-y": {
+        "$value": {
+          "Compact": "{space.unit.100}",
+          "Comfortable": "{space.unit.100}",
+          "Spacious": "{space.unit.100}"
+        },
+        "$type": "spacing"
+      },
+      "sm-padding-y": {
+        "$value": {
+          "Compact": "{space.unit.50}",
+          "Comfortable": "{space.unit.50}",
+          "Spacious": "{space.unit.50}"
+        },
+        "$type": "spacing"
+      }
+    },
+    "modal": {
+      "gap-between": {
+        "$value": {
+          "Compact": "{space.unit.200}",
+          "Comfortable": "{space.unit.200}",
+          "Spacious": "{space.unit.200}"
+        },
+        "$type": "spacing"
+      },
+      "padding-x": {
+        "$value": {
+          "Compact": "{space.unit.200}",
+          "Comfortable": "{space.unit.200}",
+          "Spacious": "{space.unit.200}"
+        },
+        "$type": "spacing"
+      },
+      "padding-y": {
+        "$value": {
+          "Compact": "{space.unit.200}",
+          "Comfortable": "{space.unit.200}",
+          "Spacious": "{space.unit.200}"
+        },
+        "$type": "spacing"
+      }
+    },
+    "nav-bar": {
+      "gap-between": {
+        "$value": {
+          "Compact": "{space.unit.0}",
+          "Comfortable": "{space.unit.100}",
+          "Spacious": "{space.unit.100}"
+        },
+        "$type": "spacing"
+      },
+      "padding-x": {
+        "$value": {
+          "Compact": "{space.unit.150}",
+          "Comfortable": "{space.unit.150}",
+          "Spacious": "{space.unit.150}"
+        },
+        "$type": "spacing"
+      },
+      "padding-y": {
+        "$value": {
+          "Compact": "{space.unit.150}",
+          "Comfortable": "{space.unit.150}",
+          "Spacious": "{space.unit.150}"
+        },
+        "$type": "spacing"
+      }
+    },
+    "nav-item": {
+      "gap-outside": {
+        "$value": {
+          "Compact": "{space.nav-bar.gap-between}",
+          "Comfortable": "{space.nav-bar.gap-between}",
+          "Spacious": "{space.nav-bar.gap-between}"
+        },
+        "$type": "spacing"
+      },
+      "gap-between-x": {
+        "$value": {
+          "Compact": "{space.unit.200}",
+          "Comfortable": "{space.unit.200}",
+          "Spacious": "{space.unit.200}"
+        },
+        "$type": "spacing"
+      },
+      "gap-between-y": {
+        "$value": {
+          "Compact": "{space.unit.75}",
+          "Comfortable": "{space.unit.75}",
+          "Spacious": "{space.unit.75}"
+        },
+        "$type": "number"
+      },
+      "padding-x": {
+        "$value": {
+          "Compact": "{space.unit.100}",
+          "Comfortable": "{space.unit.100}",
+          "Spacious": "{space.unit.100}"
+        },
+        "$type": "spacing"
+      },
+      "padding-y": {
+        "$value": {
+          "Compact": "{space.unit.100}",
+          "Comfortable": "{space.unit.100}",
+          "Spacious": "{space.unit.100}"
+        },
+        "$type": "spacing"
+      }
+    },
+    "page": {
+      "gap-between": {
+        "$value": {
+          "Compact": "{space.unit.200}",
+          "Comfortable": "{space.unit.200}",
+          "Spacious": "{space.unit.200}"
+        },
+        "$type": "spacing"
+      },
+      "padding-x": {
+        "$value": {
+          "Compact": "{space.unit.200}",
+          "Comfortable": "{space.unit.200}",
+          "Spacious": "{space.unit.200}"
+        },
+        "$type": "spacing"
+      },
+      "padding-y": {
+        "$value": {
+          "Compact": "{space.unit.200}",
+          "Comfortable": "{space.unit.200}",
+          "Spacious": "{space.unit.200}"
+        },
+        "$type": "spacing"
+      }
+    },
+    "popover": {
+      "gap-between": {
+        "$value": {
+          "Compact": "{space.unit.100}",
+          "Comfortable": "{space.unit.100}",
+          "Spacious": "{space.unit.100}"
+        },
+        "$type": "spacing"
+      },
+      "padding-x": {
+        "$value": {
+          "Compact": "{space.unit.200}",
+          "Comfortable": "{space.unit.200}",
+          "Spacious": "{space.unit.200}"
+        },
+        "$type": "spacing"
+      },
+      "padding-y": {
+        "$value": {
+          "Compact": "{space.unit.100}",
+          "Comfortable": "{space.unit.100}",
+          "Spacious": "{space.unit.100}"
+        },
+        "$type": "spacing"
+      }
+    },
+    "tab": {
+      "gap-between": {
+        "$value": {
+          "Compact": "{space.unit.50}",
+          "Comfortable": "{space.unit.50}",
+          "Spacious": "{space.unit.50}"
+        },
+        "$type": "spacing"
+      },
+      "gap-outside-x": {
+        "$value": {
+          "Compact": "{space.unit.50}",
+          "Comfortable": "{space.unit.50}",
+          "Spacious": "{space.unit.50}"
+        },
+        "$type": "spacing"
+      },
+      "gap-outside-y": {
+        "$value": {
+          "Compact": "{space.unit.100}",
+          "Comfortable": "{space.unit.100}",
+          "Spacious": "{space.unit.100}"
+        },
+        "$type": "spacing",
+        "$description": "Spacing below tabs"
+      },
+      "sm": {
+        "padding-x": {
+          "$value": {
+            "Compact": "{space.unit.100}",
+            "Comfortable": "{space.unit.100}",
+            "Spacious": "{space.unit.100}"
+          },
+          "$type": "spacing",
+          "$description": "Use with detached tabs"
+        },
+        "padding-y": {
+          "$value": {
+            "Compact": "{space.unit.50}",
+            "Comfortable": "{space.unit.50}",
+            "Spacious": "{space.unit.50}"
+          },
+          "$type": "spacing",
+          "$description": "Use with detached tabs"
+        }
+      },
+      "lg": {
+        "padding-x": {
+          "$value": {
+            "Compact": "{space.unit.150}",
+            "Comfortable": "{space.unit.150}",
+            "Spacious": "{space.unit.150}"
+          },
+          "$type": "spacing",
+          "$description": "Use with attached tabs"
+        },
+        "padding-y": {
+          "$value": {
+            "Compact": "{space.unit.150}",
+            "Comfortable": "{space.unit.150}",
+            "Spacious": "{space.unit.150}"
+          },
+          "$type": "spacing",
+          "$description": "Use with attached tabs"
+        }
+      }
+    },
+    "table": {
+      "cell": {
+        "gap-between": {
+          "$value": {
+            "Compact": "{space.unit.100}",
+            "Comfortable": "{space.unit.100}",
+            "Spacious": "{space.unit.100}"
+          },
+          "$type": "spacing"
+        },
+        "padding-x": {
+          "$value": {
+            "Compact": "{space.unit.50}",
+            "Comfortable": "{space.unit.100}",
+            "Spacious": "{space.unit.150}"
+          },
+          "$type": "spacing"
+        },
+        "padding-y": {
+          "$value": {
+            "Compact": "{space.unit.25}",
+            "Comfortable": "{space.unit.75}",
+            "Spacious": "{space.unit.100}"
+          },
+          "$type": "spacing"
+        }
+      },
+      "header": {
+        "gap-between": {
+          "$value": {
+            "Compact": "{space.unit.50}",
+            "Comfortable": "{space.unit.50}",
+            "Spacious": "{space.unit.75}"
+          },
+          "$type": "spacing"
+        },
+        "padding-x": {
+          "$value": {
+            "Compact": "{space.table.cell.padding-x}",
+            "Comfortable": "{space.table.cell.padding-x}",
+            "Spacious": "{space.table.cell.padding-x}"
+          },
+          "$type": "spacing"
+        },
+        "padding-y": {
+          "$value": {
+            "Compact": "{space.table.cell.padding-y}",
+            "Comfortable": "{space.table.cell.padding-y}",
+            "Spacious": "{space.table.cell.padding-y}"
+          },
+          "$type": "spacing"
+        }
+      },
+      "subheader": {
+        "gap-between": {
+          "$value": {
+            "Compact": "{space.unit.50}",
+            "Comfortable": "{space.unit.50}",
+            "Spacious": "{space.unit.75}"
+          },
+          "$type": "spacing"
+        },
+        "padding-x": {
+          "$value": {
+            "Compact": "{space.table.header.padding-x}",
+            "Comfortable": "{space.table.header.padding-x}",
+            "Spacious": "{space.table.header.padding-x}"
+          },
+          "$type": "spacing"
+        },
+        "padding-top": {
+          "$value": {
+            "Compact": "{space.unit.100}",
+            "Comfortable": "{space.unit.200}",
+            "Spacious": "{space.unit.250}"
+          },
+          "$type": "spacing"
+        },
+        "padding-bottom": {
+          "$value": {
+            "Compact": "{space.unit.25}",
+            "Comfortable": "{space.unit.50}",
+            "Spacious": "{space.unit.100}"
+          },
+          "$type": "spacing"
+        }
+      },
+      "footer": {
+        "gap-between": {
+          "$value": {
+            "Compact": "{space.unit.100}",
+            "Comfortable": "{space.unit.100}",
+            "Spacious": "{space.unit.100}"
+          },
+          "$type": "spacing"
+        },
+        "padding-x": {
+          "$value": {
+            "Compact": "{space.table.header.padding-x}",
+            "Comfortable": "{space.table.header.padding-x}",
+            "Spacious": "{space.table.header.padding-x}"
+          },
+          "$type": "spacing"
+        },
+        "padding-y": {
+          "$value": {
+            "Compact": "{space.table.header.padding-y}",
+            "Comfortable": "{space.table.header.padding-y}",
+            "Spacious": "{space.table.header.padding-y}"
+          },
+          "$type": "spacing"
+        }
+      }
+    },
+    "spreadsheet": {
+      "cell": {
+        "gap-between": {
+          "$value": {
+            "Compact": "{space.unit.100}",
+            "Comfortable": "{space.unit.100}",
+            "Spacious": "{space.unit.100}"
+          },
+          "$type": "spacing"
+        },
+        "padding-x": {
+          "$value": {
+            "Compact": "{space.unit.50}",
+            "Comfortable": "{space.unit.75}",
+            "Spacious": "{space.unit.100}"
+          },
+          "$type": "spacing"
+        },
+        "padding-y": {
+          "$value": {
+            "Compact": "{space.unit.0}",
+            "Comfortable": "{space.unit.50}",
+            "Spacious": "{space.unit.100}"
+          },
+          "$type": "spacing"
+        }
+      },
+      "header": {
+        "gap-between": {
+          "$value": {
+            "Compact": "{space.unit.50}",
+            "Comfortable": "{space.unit.50}",
+            "Spacious": "{space.unit.100}"
+          },
+          "$type": "spacing"
+        },
+        "padding-x": {
+          "$value": {
+            "Compact": "{space.unit.50}",
+            "Comfortable": "{space.unit.75}",
+            "Spacious": "{space.unit.100}"
+          },
+          "$type": "spacing"
+        },
+        "padding-y": {
+          "$value": {
+            "Compact": "{space.unit.25}",
+            "Comfortable": "{space.unit.50}",
+            "Spacious": "{space.unit.100}"
+          },
+          "$type": "spacing"
+        }
+      }
+    },
+    "unit": {
+      "0": {
+        "$value": {
+          "Compact": 0,
+          "Comfortable": 0,
+          "Spacious": 0
+        },
+        "$type": "spacing"
+      },
+      "25": {
+        "$value": {
+          "Compact": 2,
+          "Comfortable": 2,
+          "Spacious": 2
+        },
+        "$type": "spacing",
+        "$description": "-1 suffix"
+      },
+      "50": {
+        "$value": {
+          "Compact": 4,
+          "Comfortable": 4,
+          "Spacious": 4
+        },
+        "$type": "spacing",
+        "$description": "-2 suffix"
+      },
+      "75": {
+        "$value": {
+          "Compact": 6,
+          "Comfortable": 6,
+          "Spacious": 6
+        },
+        "$type": "spacing",
+        "$description": "-3 suffix"
+      },
+      "100": {
+        "$value": {
+          "Compact": 8,
+          "Comfortable": 8,
+          "Spacious": 8
+        },
+        "$type": "spacing",
+        "$description": "-4 suffix (base unit)"
+      },
+      "150": {
+        "$value": {
+          "Compact": 12,
+          "Comfortable": 12,
+          "Spacious": 12
+        },
+        "$type": "spacing",
+        "$description": "-5 suffix"
+      },
+      "200": {
+        "$value": {
+          "Compact": 16,
+          "Comfortable": 16,
+          "Spacious": 16
+        },
+        "$type": "spacing",
+        "$description": "-6 suffix"
+      },
+      "250": {
+        "$value": {
+          "Compact": 20,
+          "Comfortable": 20,
+          "Spacious": 20
+        },
+        "$type": "spacing",
+        "$description": "-7 suffix"
+      },
+      "300": {
+        "$value": {
+          "Compact": 24,
+          "Comfortable": 24,
+          "Spacious": 24
+        },
+        "$type": "spacing",
+        "$description": "-8 suffix"
+      },
+      "400": {
+        "$value": {
+          "Compact": 32,
+          "Comfortable": 32,
+          "Spacious": 32
+        },
+        "$type": "spacing",
+        "$description": "-9 suffix"
+      },
+      "500": {
+        "$value": {
+          "Compact": 40,
+          "Comfortable": 40,
+          "Spacious": 40
+        },
+        "$type": "spacing",
+        "$description": "-10 suffix"
+      },
+      "600": {
+        "$value": {
+          "Compact": 48,
+          "Comfortable": 48,
+          "Spacious": 48
+        },
+        "$type": "spacing"
+      },
+      "800": {
+        "$value": {
+          "Compact": 64,
+          "Comfortable": 64,
+          "Spacious": 64
+        },
+        "$type": "spacing"
+      },
+      "1000": {
+        "$value": {
+          "Compact": 80,
+          "Comfortable": 80,
+          "Spacious": 80
+        },
+        "$type": "spacing"
+      }
+    },
+    "grid-gap": {
+      "$value": {
+        "Compact": "{space.unit.400}",
+        "Comfortable": "{space.unit.400}",
+        "Spacious": "{space.unit.400}"
+      },
+      "$type": "spacing",
+      "$description": "Grid gutter width"
+    }
+  }
+}

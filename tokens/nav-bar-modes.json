@@ -1,0 +1,31 @@
+{
+  "is-expanded": {
+    "$value": {
+      "Expanded": true,
+      "Collapsed": false
+    },
+    "$type": "boolean",
+    "$description": "Use this to expand or collapse the sidebar navigation menu"
+  },
+  "is-collapsed": {
+    "$value": {
+      "Expanded": false,
+      "Collapsed": true
+    },
+    "$type": "boolean"
+  },
+  "global-nav-bar-width": {
+    "$value": {
+      "Expanded": 200,
+      "Collapsed": 64
+    },
+    "$type": "number"
+  },
+  "designer-nav-bar-width": {
+    "$value": {
+      "Expanded": 96,
+      "Collapsed": 96
+    },
+    "$type": "number"
+  }
+}

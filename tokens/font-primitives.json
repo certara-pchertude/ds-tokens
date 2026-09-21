@@ -1,0 +1,138 @@
+{
+  "product-fonts": {
+    "inter": {
+      "$value": "Inter",
+      "$type": "fontFamily"
+    },
+    "inconsolata": {
+      "$value": "Inconsolata",
+      "$type": "fontFamily"
+    },
+    "fontawesome": {
+      "$value": "Font Awesome 7 Pro",
+      "$type": "fontFamily"
+    },
+    "fontawesome-brand": {
+      "$value": "Font Awesome 7 Brands",
+      "$type": "fontFamily"
+    }
+  },
+  "major-2nd-scaling": {
+    "11": {
+      "$value": 11,
+      "$type": "fontSize"
+    },
+    "12": {
+      "$value": 12,
+      "$type": "fontSize"
+    },
+    "14": {
+      "$value": 14,
+      "$type": "fontSize"
+    },
+    "16": {
+      "$value": 16,
+      "$type": "fontSize"
+    },
+    "18": {
+      "$value": 18,
+      "$type": "fontSize"
+    },
+    "20": {
+      "$value": 20,
+      "$type": "fontSize"
+    },
+    "24": {
+      "$value": 24,
+      "$type": "fontSize"
+    },
+    "28": {
+      "$value": 28,
+      "$type": "fontSize"
+    },
+    "32": {
+      "$value": 32,
+      "$type": "fontSize"
+    },
+    "36": {
+      "$value": 36,
+      "$type": "fontSize"
+    },
+    "40": {
+      "$value": 40,
+      "$type": "fontSize"
+    },
+    "46": {
+      "$value": 46,
+      "$type": "fontSize"
+    },
+    "52": {
+      "$value": 52,
+      "$type": "fontSize"
+    },
+    "66": {
+      "$value": 66,
+      "$type": "fontSize"
+    }
+  },
+  "inter-weights": {
+    "300-light": {
+      "$value": "Light",
+      "$type": "fontWeight"
+    },
+    "300-light-italic": {
+      "$value": "Light Italic",
+      "$type": "fontWeight"
+    },
+    "400-regular": {
+      "$value": "Regular",
+      "$type": "fontWeight"
+    },
+    "400-italic": {
+      "$value": "Italic",
+      "$type": "fontWeight"
+    },
+    "500-medium": {
+      "$value": "Medium",
+      "$type": "fontWeight"
+    },
+    "500-medium-italic": {
+      "$value": "Medium Italic",
+      "$type": "fontWeight"
+    },
+    "600-semibold": {
+      "$value": "Semibold",
+      "$type": "fontWeight"
+    },
+    "600-semibold-italic": {
+      "$value": "Semibold Italic",
+      "$type": "fontWeight"
+    },
+    "700-bold": {
+      "$value": "Bold",
+      "$type": "fontWeight"
+    },
+    "700-bold-italic": {
+      "$value": "Bold Italic",
+      "$type": "fontWeight"
+    }
+  },
+  "fa-weight": {
+    "solid": {
+      "$value": "Solid",
+      "$type": "fontWeight"
+    },
+    "regular": {
+      "$value": "Regular",
+      "$type": "fontWeight"
+    },
+    "light": {
+      "$value": "Light",
+      "$type": "fontWeight"
+    },
+    "thin": {
+      "$value": "Thin",
+      "$type": "fontWeight"
+    }
+  }
+}

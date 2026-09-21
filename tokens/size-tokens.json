@@ -1,0 +1,176 @@
+{
+  "size": {
+    "avatar": {
+      "16": {
+        "$value": 16,
+        "$type": "number"
+      },
+      "18": {
+        "$value": 18,
+        "$type": "number"
+      },
+      "20": {
+        "$value": 20,
+        "$type": "size",
+        "$description": "avatar or icon sizes"
+      },
+      "24": {
+        "$value": 24,
+        "$type": "size",
+        "$description": "avatar or icon sizes"
+      },
+      "30": {
+        "$value": 30,
+        "$type": "size",
+        "$description": "avatar or icon sizes"
+      },
+      "36": {
+        "$value": 36,
+        "$type": "size",
+        "$description": "avatar or icon sizes"
+      },
+      "50": {
+        "$value": 50,
+        "$type": "size",
+        "$description": "avatar or icon sizes"
+      },
+      "75": {
+        "$value": 75,
+        "$type": "size",
+        "$description": "avatar or icon sizes"
+      },
+      "150": {
+        "$value": 150,
+        "$type": "size",
+        "$description": "avatar or icon sizes"
+      },
+      "xs": {
+        "$value": "{font.size.body.xs}",
+        "$type": "size"
+      },
+      "sm": {
+        "$value": "{font.size.body.sm}",
+        "$type": "size"
+      },
+      "md": {
+        "$value": "{font.size.body.base}",
+        "$type": "size"
+      },
+      "lg": {
+        "$value": "{font.size.body.lg}",
+        "$type": "size"
+      }
+    },
+    "alert": {
+      "min-width": {
+        "$value": 150,
+        "$type": "size"
+      },
+      "max-width": {
+        "$value": 3000,
+        "$type": "size"
+      }
+    },
+    "button": {
+      "min-height-sm": {
+        "$value": 32,
+        "$type": "size"
+      },
+      "min-height-md": {
+        "$value": 40,
+        "$type": "size"
+      },
+      "min-height-lg": {
+        "$value": 48,
+        "$type": "size"
+      }
+    },
+    "container": {
+      "min-width": {
+        "$value": 200,
+        "$type": "size"
+      },
+      "max-width": {
+        "$value": 3000,
+        "$type": "size"
+      }
+    },
+    "dropdown-menu": {
+      "min-width": {
+        "$value": 150,
+        "$type": "size"
+      },
+      "max-width": {
+        "$value": 1200,
+        "$type": "size"
+      }
+    },
+    "label": {
+      "min-width": {
+        "$value": 16,
+        "$type": "size"
+      },
+      "max-width": {
+        "$value": 200,
+        "$type": "size"
+      }
+    },
+    "input": {
+      "min-width": {
+        "$value": 30,
+        "$type": "size"
+      },
+      "max-width": {
+        "$value": 1200,
+        "$type": "size"
+      },
+      "min-height-sm": {
+        "$value": "{size.button.min-height-sm}",
+        "$type": "number"
+      },
+      "min-height-md": {
+        "$value": "{size.button.min-height-md}",
+        "$type": "number"
+      }
+    },
+    "popover": {
+      "min-width": {
+        "$value": 15,
+        "$type": "size"
+      },
+      "max-width": {
+        "$value": 500,
+        "$type": "size"
+      }
+    },
+    "modal": {
+      "sm": {
+        "$value": 350,
+        "$type": "size"
+      },
+      "md": {
+        "$value": 500,
+        "$type": "size"
+      },
+      "lg": {
+        "$value": 800,
+        "$type": "size"
+      },
+      "xl": {
+        "$value": 1200,
+        "$type": "size",
+        "$description": "Modal widths"
+      }
+    },
+    "tooltip": {
+      "min-width": {
+        "$value": 15,
+        "$type": "size"
+      },
+      "max-width": {
+        "$value": 500,
+        "$type": "size"
+      }
+    }
+  }
+}
