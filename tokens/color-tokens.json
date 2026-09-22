@@ -2,7 +2,7 @@
   "color": {
     "text": {
       "primary": {
-        "$value": "{theme.brand.900}",
+        "$value": "{theme.success.900}",
         "$type": "color",
         "$description": "Majority of body and input text"
       },
