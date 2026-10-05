@@ -2285,7 +2285,7 @@
     "certara red": {
       "100": {
         "$type": "color",
-        "$value": "#000000",
+        "$value": "#f7d4d5",
         "$extensions": {
           "com.figma": {
             "variableId": "VariableID:2265:35374",
