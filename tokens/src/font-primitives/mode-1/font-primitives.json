@@ -1,0 +1,468 @@
+{
+  "product-fonts": {
+    "Inter": {
+      "$type": "fontFamily",
+      "$value": "Inter",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8575:30348",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_FAMILY"
+          ]
+        }
+      }
+    },
+    "Inconsolata": {
+      "$type": "fontFamily",
+      "$value": "Inconsolata",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8575:30349",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_FAMILY"
+          ]
+        }
+      }
+    },
+    "FontAwesome": {
+      "$type": "fontFamily",
+      "$value": "Font Awesome 7 Pro",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8581:31201",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_FAMILY"
+          ]
+        }
+      }
+    },
+    "FontAwesome Brand": {
+      "$type": "fontFamily",
+      "$value": "Font Awesome 7 Brands",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8581:31202",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_FAMILY"
+          ]
+        }
+      }
+    }
+  },
+  "major-2nd-scaling": {
+    "11": {
+      "$type": "dimension",
+      "$value": {
+        "value": 11,
+        "unit": "px"
+      },
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8575:30377",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_SIZE"
+          ]
+        }
+      }
+    },
+    "12": {
+      "$type": "dimension",
+      "$value": {
+        "value": 12,
+        "unit": "px"
+      },
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8575:30379",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_SIZE"
+          ]
+        }
+      }
+    },
+    "14": {
+      "$type": "dimension",
+      "$value": {
+        "value": 14,
+        "unit": "px"
+      },
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8575:30380",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_SIZE"
+          ]
+        }
+      }
+    },
+    "16": {
+      "$type": "dimension",
+      "$value": {
+        "value": 16,
+        "unit": "px"
+      },
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8575:30381",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_SIZE"
+          ]
+        }
+      }
+    },
+    "18": {
+      "$type": "dimension",
+      "$value": {
+        "value": 18,
+        "unit": "px"
+      },
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8575:30382",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_SIZE"
+          ]
+        }
+      }
+    },
+    "20": {
+      "$type": "dimension",
+      "$value": {
+        "value": 20,
+        "unit": "px"
+      },
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8575:30383",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_SIZE"
+          ]
+        }
+      }
+    },
+    "24": {
+      "$type": "dimension",
+      "$value": {
+        "value": 24,
+        "unit": "px"
+      },
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8575:30384",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_SIZE"
+          ]
+        }
+      }
+    },
+    "28": {
+      "$type": "dimension",
+      "$value": {
+        "value": 28,
+        "unit": "px"
+      },
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8575:30385",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_SIZE"
+          ]
+        }
+      }
+    },
+    "32": {
+      "$type": "dimension",
+      "$value": {
+        "value": 32,
+        "unit": "px"
+      },
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8582:31240",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_SIZE"
+          ]
+        }
+      }
+    },
+    "36": {
+      "$type": "dimension",
+      "$value": {
+        "value": 36,
+        "unit": "px"
+      },
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8579:1892",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_SIZE"
+          ]
+        }
+      }
+    },
+    "40": {
+      "$type": "dimension",
+      "$value": {
+        "value": 40,
+        "unit": "px"
+      },
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8582:31241",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_SIZE"
+          ]
+        }
+      }
+    },
+    "46": {
+      "$type": "dimension",
+      "$value": {
+        "value": 46,
+        "unit": "px"
+      },
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8582:31242",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_SIZE"
+          ]
+        }
+      }
+    },
+    "52": {
+      "$type": "dimension",
+      "$value": {
+        "value": 52,
+        "unit": "px"
+      },
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8579:1890",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_SIZE"
+          ]
+        }
+      }
+    },
+    "66": {
+      "$type": "dimension",
+      "$value": {
+        "value": 66,
+        "unit": "px"
+      },
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8579:1891",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_SIZE"
+          ]
+        }
+      }
+    }
+  },
+  "inter-weights": {
+    "300 Light": {
+      "$type": "string",
+      "$value": "Light",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8579:1885",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_STYLE"
+          ]
+        }
+      }
+    },
+    "300 Light Italic": {
+      "$type": "string",
+      "$value": "Light Italic",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8576:30420",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_STYLE"
+          ]
+        }
+      }
+    },
+    "400 Regular": {
+      "$type": "string",
+      "$value": "Regular",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8579:1886",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_STYLE"
+          ]
+        }
+      }
+    },
+    "400 Italic": {
+      "$type": "string",
+      "$value": "Italic",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8576:30422",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_STYLE"
+          ]
+        }
+      }
+    },
+    "500 Medium": {
+      "$type": "string",
+      "$value": "Medium",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8579:1887",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_STYLE"
+          ]
+        }
+      }
+    },
+    "500 Medium Italic": {
+      "$type": "string",
+      "$value": "Medium Italic",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8576:30424",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_STYLE"
+          ]
+        }
+      }
+    },
+    "600 Semibold": {
+      "$type": "string",
+      "$value": "Semibold",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8579:1888",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_STYLE"
+          ]
+        }
+      }
+    },
+    "600 Semibold Italic": {
+      "$type": "string",
+      "$value": "Semibold Italic",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8576:30425",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_STYLE"
+          ]
+        }
+      }
+    },
+    "700 Bold": {
+      "$type": "string",
+      "$value": "Bold",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8579:1889",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_STYLE"
+          ]
+        }
+      }
+    },
+    "700 Bold Italic": {
+      "$type": "string",
+      "$value": "Bold Italic",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8579:1878",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_STYLE"
+          ]
+        }
+      }
+    }
+  },
+  "fa-weight": {
+    "solid": {
+      "$type": "string",
+      "$value": "Solid",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8581:31196",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_STYLE"
+          ]
+        }
+      }
+    },
+    "regular": {
+      "$type": "string",
+      "$value": "Regular",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8581:31197",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_STYLE"
+          ]
+        }
+      }
+    },
+    "light": {
+      "$type": "string",
+      "$value": "Light",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8581:31198",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_STYLE"
+          ]
+        }
+      }
+    },
+    "thin": {
+      "$type": "string",
+      "$value": "Thin",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:8581:31199",
+          "collection": "Font Primitives",
+          "scopes": [
+            "FONT_STYLE"
+          ]
+        }
+      }
+    }
+  }
+}

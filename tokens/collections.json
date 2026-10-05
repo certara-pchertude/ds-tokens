@@ -1,0 +1,138 @@
+{
+  "$description": "Figma variable collections mirrored in src/<collection>/<mode>/. Modes are listed in Figma order; defaultMode is Figma's default.",
+  "collections": [
+    {
+      "slug": "color-primitives",
+      "name": "Color Primitives",
+      "figmaId": "VariableCollectionId:2265:35326",
+      "hiddenFromPublishing": true,
+      "modes": [
+        {
+          "slug": "certara",
+          "name": "Certara"
+        }
+      ],
+      "defaultMode": "certara"
+    },
+    {
+      "slug": "border-tokens",
+      "name": "Border Tokens",
+      "figmaId": "VariableCollectionId:2265:35545",
+      "hiddenFromPublishing": false,
+      "modes": [
+        {
+          "slug": "default",
+          "name": "Default"
+        }
+      ],
+      "defaultMode": "default"
+    },
+    {
+      "slug": "color-tokens",
+      "name": "Color Tokens",
+      "figmaId": "VariableCollectionId:2273:35870",
+      "hiddenFromPublishing": false,
+      "modes": [
+        {
+          "slug": "light",
+          "name": "Light"
+        },
+        {
+          "slug": "dark",
+          "name": "Dark"
+        }
+      ],
+      "defaultMode": "light"
+    },
+    {
+      "slug": "space-tokens",
+      "name": "Space Tokens",
+      "figmaId": "VariableCollectionId:2273:36142",
+      "hiddenFromPublishing": false,
+      "modes": [
+        {
+          "slug": "compact",
+          "name": "Compact"
+        },
+        {
+          "slug": "comfortable",
+          "name": "Comfortable"
+        },
+        {
+          "slug": "spacious",
+          "name": "Spacious"
+        }
+      ],
+      "defaultMode": "compact"
+    },
+    {
+      "slug": "size-tokens",
+      "name": "Size Tokens",
+      "figmaId": "VariableCollectionId:2739:25760",
+      "hiddenFromPublishing": false,
+      "modes": [
+        {
+          "slug": "mode-1",
+          "name": "Mode 1"
+        }
+      ],
+      "defaultMode": "mode-1"
+    },
+    {
+      "slug": "marketing-colors",
+      "name": "Marketing Colors",
+      "figmaId": "VariableCollectionId:2815:17157",
+      "hiddenFromPublishing": false,
+      "modes": [
+        {
+          "slug": "mode-1",
+          "name": "Mode 1"
+        }
+      ],
+      "defaultMode": "mode-1"
+    },
+    {
+      "slug": "nav-bar-modes",
+      "name": "Nav Bar Modes",
+      "figmaId": "VariableCollectionId:3835:28029",
+      "hiddenFromPublishing": false,
+      "modes": [
+        {
+          "slug": "expanded",
+          "name": "Expanded"
+        },
+        {
+          "slug": "collapsed",
+          "name": "Collapsed"
+        }
+      ],
+      "defaultMode": "expanded"
+    },
+    {
+      "slug": "font-primitives",
+      "name": "Font Primitives",
+      "figmaId": "VariableCollectionId:8575:30347",
+      "hiddenFromPublishing": false,
+      "modes": [
+        {
+          "slug": "mode-1",
+          "name": "Mode 1"
+        }
+      ],
+      "defaultMode": "mode-1"
+    },
+    {
+      "slug": "font-tokens",
+      "name": "Font Tokens",
+      "figmaId": "VariableCollectionId:8581:31171",
+      "hiddenFromPublishing": false,
+      "modes": [
+        {
+          "slug": "mode-1",
+          "name": "Mode 1"
+        }
+      ],
+      "defaultMode": "mode-1"
+    }
+  ]
+}

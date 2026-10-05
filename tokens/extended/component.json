@@ -1,0 +1,63 @@
+{
+  "$description": "Component-scoped values that certara-ui declares on :root. They are not design decisions in Figma, but are kept here so @certara/styles can generate every custom property the root stylesheet defines today. String values marked raw are emitted verbatim.",
+  "sort-icon": {
+    "size": { "$type": "dimension", "$value": { "value": 13, "unit": "px" } },
+    "gap": { "$type": "dimension", "$value": "{space.unit.50}" }
+  },
+  "sort-arrow": {
+    "height": { "$type": "dimension", "$value": { "value": 11, "unit": "px" } },
+    "down-width": { "$type": "dimension", "$value": { "value": 7, "unit": "px" } },
+    "up-width": { "$type": "dimension", "$value": { "value": 7, "unit": "px" } },
+    "up-down-width": { "$type": "dimension", "$value": { "value": 13, "unit": "px" } }
+  },
+  "sidebar": {
+    "padding-top": { "$type": "dimension", "$value": { "value": 24, "unit": "px" } },
+    "nav": {
+      "padding-x": { "$type": "dimension", "$value": { "value": 10, "unit": "px" } },
+      "global-width": { "$type": "dimension", "$value": { "value": 64, "unit": "px" }, "$description": "Figma: Nav Bar Modes › Global nav bar width (Collapsed mode)." },
+      "contextual-width-collapsed": { "$type": "string", "$value": "calc(var(--sidebar-nav-global-width) * 2)", "$extensions": { "com.certara": { "raw": true } } },
+      "contextual-width": { "$type": "dimension", "$value": { "value": 208, "unit": "px" } },
+      "collapse-transition": { "$type": "string", "$value": "500ms cubic-bezier(0.2, 0, 0, 1) 0s", "$extensions": { "com.certara": { "raw": true } } }
+    }
+  },
+  "dt": {
+    "offset-top": { "$type": "dimension", "$value": { "value": 230, "unit": "px" } },
+    "width": {
+      "xl": { "$type": "dimension", "$value": { "value": 1500, "unit": "px" } },
+      "lg": { "$type": "dimension", "$value": { "value": 1150, "unit": "px" } },
+      "md": { "$type": "dimension", "$value": { "value": 900, "unit": "px" } }
+    }
+  },
+  "transition-toggle": { "$type": "string", "$value": "transform 0.25s cubic-bezier(0.075, 0.82, 0.165, 1)", "$extensions": { "com.certara": { "raw": true } } },
+  "circle-size": {
+    "xxs": { "$type": "dimension", "$value": { "value": 8, "unit": "px" }, "$extensions": { "com.certara": { "unit": "rem" } } },
+    "xs": { "$type": "dimension", "$value": { "value": 13, "unit": "px" }, "$extensions": { "com.certara": { "unit": "rem" } } },
+    "sm": { "$type": "dimension", "$value": { "value": 24, "unit": "px" }, "$extensions": { "com.certara": { "unit": "rem" } } },
+    "md": { "$type": "dimension", "$value": { "value": 32, "unit": "px" }, "$extensions": { "com.certara": { "unit": "rem" } } },
+    "lg": { "$type": "dimension", "$value": { "value": 48, "unit": "px" }, "$extensions": { "com.certara": { "unit": "rem" } } },
+    "xl": { "$type": "dimension", "$value": { "value": 64, "unit": "px" }, "$extensions": { "com.certara": { "unit": "rem" } } },
+    "2xl": { "$type": "dimension", "$value": { "value": 80, "unit": "px" }, "$extensions": { "com.certara": { "unit": "rem" } } }
+  },
+  "table": {
+    "color": { "$type": "color", "$value": "{body.color}" },
+    "bg": { "$type": "color", "$value": "{color.background.interactive.table.default}" },
+    "th-bg": { "$type": "color", "$value": "{color.background.static.strong}" },
+    "border-color": { "$type": "color", "$value": "{color.border.static.neutral}" },
+    "accent-bg": { "$type": "color", "$value": "transparent" },
+    "striped-color": { "$type": "color", "$value": "{body.color}" },
+    "striped-bg": {
+      "$type": "string",
+      "$value": "rgba(var(--theme-neutral-400), 0.05)",
+      "$description": "Invalid in certara-ui today (rgba() of a hex color); emitted verbatim to preserve behaviour.",
+      "$extensions": { "com.certara": { "raw": true } }
+    },
+    "active-color": { "$type": "color", "$value": "{body.color}" },
+    "active-bg": { "$type": "color", "$value": "#0000001a" },
+    "hover-color": { "$type": "color", "$value": "{body.color}" },
+    "hover-bg": { "$type": "color", "$value": "{color.background.interactive.table.hovered}" }
+  },
+  "ht-scrollbar": {
+    "track-color": { "$type": "color", "$value": "#2a2a2a", "$extensions": { "com.certara": { "darkOnly": true } } },
+    "thumb-color": { "$type": "color", "$value": "#555555", "$extensions": { "com.certara": { "darkOnly": true } } }
+  }
+}

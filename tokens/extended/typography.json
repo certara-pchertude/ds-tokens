@@ -1,0 +1,43 @@
+{
+  "$description": "Code-only typography tokens. Heading line heights match the Figma text styles (Headings/h1–h6); heading weights cannot be derived from Figma because each heading has several weight styles.",
+  "font": {
+    "size": {
+      "root": { "$type": "dimension", "$value": { "value": 16, "unit": "px" } },
+      "md": { "$type": "dimension", "$value": "{font.size.root}" },
+      "xl": { "$type": "dimension", "$value": { "value": 24, "unit": "px" } },
+      "xxl": { "$type": "dimension", "$value": { "value": 28, "unit": "px" } }
+    }
+  },
+  "line-height": {
+    "base": { "$type": "number", "$value": 1.5, "$extensions": { "com.certara": { "figmaStyle": "Body/base/Regular (400)" } } }
+  },
+  "h1": {
+    "line-height": { "$type": "number", "$value": 1.2, "$extensions": { "com.certara": { "figmaStyle": "Headings/h1" } } },
+    "font-weight": { "$type": "number", "$value": 400 }
+  },
+  "h2": {
+    "line-height": { "$type": "number", "$value": 1.3, "$extensions": { "com.certara": { "figmaStyle": "Headings/h2/Regular (400)" } } },
+    "font-weight": { "$type": "number", "$value": 500 }
+  },
+  "h3": {
+    "line-height": { "$type": "number", "$value": 1.3, "$extensions": { "com.certara": { "figmaStyle": "Headings/h3/Regular (400)" } } },
+    "font-weight": { "$type": "number", "$value": 600 }
+  },
+  "h4": {
+    "line-height": { "$type": "number", "$value": 1.3, "$extensions": { "com.certara": { "figmaStyle": "Headings/h4/Regular (400)" } } },
+    "font-weight": { "$type": "number", "$value": 500 }
+  },
+  "h5": {
+    "line-height": { "$type": "number", "$value": 1.5, "$extensions": { "com.certara": { "figmaStyle": "Headings/h5/Regular (400)" } } },
+    "font-weight": { "$type": "number", "$value": 500 }
+  },
+  "h6": {
+    "line-height": { "$type": "number", "$value": 1.5, "$extensions": { "com.certara": { "figmaStyle": "Headings/h6/Regular (400)" } } },
+    "font-weight": { "$type": "number", "$value": 500 }
+  },
+  "body": {
+    "font-family": { "$type": "fontFamily", "$value": "{font.family.primary}" },
+    "font-weight": { "$type": "string", "$value": "{font.weight.400}" },
+    "line-height": { "$type": "number", "$value": "{line-height.base}" }
+  }
+}

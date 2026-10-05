@@ -1,0 +1,1620 @@
+{
+  "valueDiffs": [
+    {
+      "name": "--theme-info-100",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "#f6efff",
+          "next": "#faf5ff",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "#f6efff",
+          "next": "#faf5ff",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--theme-info-100-rgb",
+      "how": "derived-rgb",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "246, 239, 255",
+          "next": "250, 245, 255",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "246, 239, 255",
+          "next": "250, 245, 255",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--color-text-accent-cyan",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "#004a5e",
+          "next": "#005871",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "var(--theme-cyan-300)",
+          "next": "#99d4e4",
+          "cmp": "code-unresolved"
+        }
+      }
+    },
+    {
+      "name": "--color-text-accent-magenta",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "#600a6a",
+          "next": "#9910a9",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "var(--theme-magenta-300)",
+          "next": "#e5a1ed",
+          "cmp": "code-unresolved"
+        }
+      }
+    },
+    {
+      "name": "--color-text-accent-olive",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "#58601e",
+          "next": "#58601e",
+          "cmp": "equal"
+        },
+        "dark": {
+          "code": "#8c9a30",
+          "next": "#dfe6b1",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--color-text-accent-orange",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "#7b4110",
+          "next": "#934e13",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "#c4681a",
+          "next": "#fbcda6",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--color-text-accent-periwinkle",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "#343b67",
+          "next": "#535fa6",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "var(--theme-periwinkle-300)",
+          "next": "#bbc0dd",
+          "cmp": "code-unresolved"
+        }
+      }
+    },
+    {
+      "name": "--color-background-static-info-subtle",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "#f6efff",
+          "next": "#faf5ff",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "#1a0530",
+          "next": "#1a0530",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--color-background-static-accent-cyan-subtle",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "#e6f4f8",
+          "next": "#e6f4f8",
+          "cmp": "equal"
+        },
+        "dark": {
+          "code": "#004a5e",
+          "next": "#001d26",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--color-background-static-accent-magenta-subtle",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "#f9e8fb",
+          "next": "#f9e8fb",
+          "cmp": "equal"
+        },
+        "dark": {
+          "code": "#600a6a",
+          "next": "#26042a",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--color-background-static-accent-olive-subtle",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "#eff2d8",
+          "next": "#eff2d8",
+          "cmp": "equal"
+        },
+        "dark": {
+          "code": "#58601e",
+          "next": "#23260c",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--color-background-static-accent-orange-subtle",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "#fde6d2",
+          "next": "#fde6d2",
+          "cmp": "equal"
+        },
+        "dark": {
+          "code": "#7b4110",
+          "next": "#311a06",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--color-border-interactive-button-brand",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "#167880",
+          "next": "#0000000d",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "#76c0c7",
+          "next": "#76c0c7",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--color-border-interactive-button-success",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "#0f6939",
+          "next": "#0000000d",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "#20bf6b",
+          "next": "#20bf6b",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--color-border-interactive-button-danger",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "#b21634",
+          "next": "#0000000d",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "#ec768d",
+          "next": "#ec768d",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--space-button-sm-padding-y",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "0.25rem",
+          "next": "0.375rem",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "0.25rem",
+          "next": "0.375rem",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--space-button-md-padding-y",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "0.375rem",
+          "next": "0.5rem",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "0.375rem",
+          "next": "0.5rem",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--space-input-label-gap-x",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "2rem",
+          "next": "1rem",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "2rem",
+          "next": "1rem",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--space-navbar-padding-y",
+      "how": "renamed",
+      "newName": "--space-nav-bar-padding-y",
+      "modes": {
+        "light": {
+          "code": "1.5rem",
+          "next": "0.75rem",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "1.5rem",
+          "next": "0.75rem",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--space-table-cell-padding-x",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "0.75rem",
+          "next": "0.5rem",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "0.75rem",
+          "next": "0.5rem",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--space-table-header-padding-x",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "0.75rem",
+          "next": "0.5rem",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "0.75rem",
+          "next": "0.5rem",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--space-table-subheader-padding-x",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "0.75rem",
+          "next": "0.5rem",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "0.75rem",
+          "next": "0.5rem",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--space-table-footer-padding-x",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "0.75rem",
+          "next": "0.5rem",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "0.75rem",
+          "next": "0.5rem",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--space-spreadsheet-cell-padding-x",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "0.25rem",
+          "next": "0.375rem",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "0.25rem",
+          "next": "0.375rem",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--space-spreadsheet-cell-padding-y",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "0",
+          "next": "0.25rem",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "0",
+          "next": "0.25rem",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--space-spreadsheet-header-padding-x",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "0.25rem",
+          "next": "0.375rem",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "0.25rem",
+          "next": "0.375rem",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--space-spreadsheet-header-padding-y",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "0.125rem",
+          "next": "0.25rem",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "0.125rem",
+          "next": "0.25rem",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--size-alert-min-width",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "250px",
+          "next": "150px",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "250px",
+          "next": "150px",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--size-tooltip-min-width",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "100px",
+          "next": "15px",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "100px",
+          "next": "15px",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--size-tooltip-max-width",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "250px",
+          "next": "500px",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "250px",
+          "next": "500px",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--size-popover-min-width",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "250px",
+          "next": "15px",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "250px",
+          "next": "15px",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--size-button-min-height-sm",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "1.6875rem",
+          "next": "32px",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "1.6875rem",
+          "next": "32px",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--size-button-min-height-md",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "2.1875rem",
+          "next": "40px",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "2.1875rem",
+          "next": "40px",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--size-button-min-height-lg",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "2.8125rem",
+          "next": "48px",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "2.8125rem",
+          "next": "48px",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--shadow-200",
+      "how": "extended",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "0 3px 9px 0 rgb(66 66 66 / 0.13), 0 1px 3px 0 rgb(0 0 0 / 0.09)",
+          "next": "0 3px 9px 0 #0000001a, 0 1px 3px 0 #00000017",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "0 3px 9px 0 rgb(66 66 66 / 0.13), 0 1px 3px 0 rgb(0 0 0 / 0.09)",
+          "next": "0 3px 9px 0 #0000001a, 0 1px 3px 0 #00000017",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--shadow-300",
+      "how": "extended",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "0 6px 24px 0 rgb(66 66 66 / 0.2), 0 3px 6px 0 rgb(0 0 0 / 0.06)",
+          "next": "0 6px 24px 0 #00000026, 0 3px 6px 0 #00000008",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "0 6px 24px 0 rgb(66 66 66 / 0.2), 0 3px 6px 0 rgb(0 0 0 / 0.06)",
+          "next": "0 6px 24px 0 #00000026, 0 3px 6px 0 #00000008",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--shadow-400",
+      "how": "extended",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "0 6px 27px 0 rgb(66 66 66 / 0.2), 0 4px 16px 0 rgb(66 66 66 / 0.06)",
+          "next": "0 6px 27px 0 #00000026, 0 4px 16px 0 #0000000f",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "0 6px 27px 0 rgb(66 66 66 / 0.2), 0 4px 16px 0 rgb(66 66 66 / 0.06)",
+          "next": "0 6px 27px 0 #00000026, 0 4px 16px 0 #0000000f",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--shadow-500",
+      "how": "extended",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "0 6px 50px 0 rgb(66 66 66 / 0.16), 0 4px 32px 0 rgb(66 66 66 / 0.06)",
+          "next": "0 6px 50px 0 #00000026, 0 4px 32px 0 #0000000f",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "0 6px 50px 0 rgb(66 66 66 / 0.16), 0 4px 32px 0 rgb(66 66 66 / 0.06)",
+          "next": "0 6px 50px 0 #00000026, 0 4px 32px 0 #0000000f",
+          "cmp": "different"
+        }
+      }
+    },
+    {
+      "name": "--shadow-600",
+      "how": "extended",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "0 6px 100px 0 rgb(66 66 66 / 0.14), 0 4px 60px 0 rgb(66 66 66 / 0.06)",
+          "next": "0 6px 100px 0 #00000024, 0 4px 60px 0 #0000000f",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "0 6px 100px 0 rgb(66 66 66 / 0.14), 0 4px 60px 0 rgb(66 66 66 / 0.06)",
+          "next": "0 6px 100px 0 #00000024, 0 4px 60px 0 #0000000f",
+          "cmp": "different"
+        }
+      }
+    }
+  ],
+  "rounding": [
+    {
+      "name": "--inset-shadows-inset-100",
+      "how": "extended",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "inset 0px 2px 4px rgb(0 0 0 / 0.3), inset 0px 1px 2px rgb(0 0 0 / 0.2)",
+          "next": "inset 0 1px 2px 0 #00000033, inset 0 2px 4px 0 #0000004d",
+          "cmp": "rounding"
+        },
+        "dark": {
+          "code": "inset 0px 2px 4px rgb(0 0 0 / 0.3), inset 0px 1px 2px rgb(0 0 0 / 0.2)",
+          "next": "inset 0 1px 2px 0 #00000033, inset 0 2px 4px 0 #0000004d",
+          "cmp": "rounding"
+        }
+      }
+    },
+    {
+      "name": "--color-border-interactive-focused",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "#1b909b7f",
+          "next": "#1c919c80",
+          "cmp": "rounding"
+        },
+        "dark": {
+          "code": "#76c0c7",
+          "next": "#76c0c7",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--shadow-100",
+      "how": "extended",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "0 1px 2px 0 rgb(0 0 0 / 0.2), 0 2px 4px 0 rgb(0 0 0 / 0.22)",
+          "next": "0 2px 4px 0 #00000038, 0 1px 2px 0 #00000033",
+          "cmp": "rounding"
+        },
+        "dark": {
+          "code": "0 0 0 1px rgb(255 255 255 / 0.2)",
+          "next": "0 0 0 1px #ffffff33",
+          "cmp": "equal"
+        }
+      }
+    }
+  ],
+  "modeCoverage": [
+    {
+      "name": "--color-background-interactive-nav-bar-main-nav",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "next": "#ffffff",
+          "cmp": "new-in-mode"
+        },
+        "dark": {
+          "code": "#212121",
+          "next": "#212121",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--color-background-interactive-nav-bar-sub-nav",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "next": "#ffffff",
+          "cmp": "new-in-mode"
+        },
+        "dark": {
+          "code": "#262626",
+          "next": "#262626",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--color-background-interactive-progress-success",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "next": "#20bf6b",
+          "cmp": "new-in-mode"
+        },
+        "dark": {
+          "code": "#20bf6b",
+          "next": "#20bf6b",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--color-background-interactive-progress-success-subtle",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "next": "#97deb9",
+          "cmp": "new-in-mode"
+        },
+        "dark": {
+          "code": "#0e522e",
+          "next": "#0e522e",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--color-background-interactive-progress-warning",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "next": "#fdbb30",
+          "cmp": "new-in-mode"
+        },
+        "dark": {
+          "code": "#fed683",
+          "next": "#fed683",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--color-background-interactive-selected-danger",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "next": "#fdedf0",
+          "cmp": "new-in-mode"
+        },
+        "dark": {
+          "code": "#700e21",
+          "next": "#700e21",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--color-background-interactive-selected-danger-hovered",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "next": "#f9d1d9",
+          "cmp": "new-in-mode"
+        },
+        "dark": {
+          "code": "#861027",
+          "next": "#861027",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--color-background-interactive-selected-success",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "next": "#e2faed",
+          "cmp": "new-in-mode"
+        },
+        "dark": {
+          "code": "#0c4527",
+          "next": "#0c4527",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--color-background-interactive-selected-success-hovered",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "next": "#bae8d0",
+          "cmp": "new-in-mode"
+        },
+        "dark": {
+          "code": "#0e522e",
+          "next": "#0e522e",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--color-background-interactive-selected-underline-brand",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "next": "#76c0c7",
+          "cmp": "new-in-mode"
+        },
+        "dark": {
+          "code": "#2aa9b5",
+          "next": "#2aa9b5",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--color-background-interactive-tab-attached-body",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "next": "#fafafa",
+          "cmp": "new-in-mode"
+        },
+        "dark": {
+          "code": "#212121",
+          "next": "#212121",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--color-background-interactive-tab-selected-attached",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "next": "#fafafa",
+          "cmp": "new-in-mode"
+        },
+        "dark": {
+          "code": "#212121",
+          "next": "#212121",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--color-background-interactive-tab-selected-detached",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "next": "#ffffff",
+          "cmp": "new-in-mode"
+        },
+        "dark": {
+          "code": "#323232",
+          "next": "#323232",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--color-border-interactive-selected-neutral-inverse",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "next": "#dddddd",
+          "cmp": "new-in-mode"
+        },
+        "dark": {
+          "code": "#111",
+          "next": "#111111",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--color-border-interactive-selected-neutral-inverse-hovered",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "next": "#ffffff",
+          "cmp": "new-in-mode"
+        },
+        "dark": {
+          "code": "#111",
+          "next": "#111111",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--color-link-neutral-selected",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "next": "#111111",
+          "cmp": "new-in-mode"
+        },
+        "dark": {
+          "code": "#fafafa",
+          "next": "#fafafa",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--color-background-interactive-table-cell-highlight",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "next": "#2aa9b524",
+          "cmp": "new-in-mode"
+        },
+        "dark": {
+          "code": "#16788066",
+          "next": "#16788066",
+          "cmp": "equal"
+        }
+      }
+    },
+    {
+      "name": "--color-background-interactive-table-read-only",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "next": "#fafafa",
+          "cmp": "new-in-mode"
+        },
+        "dark": {
+          "code": "#212121",
+          "next": "#212121",
+          "cmp": "equal"
+        }
+      }
+    }
+  ],
+  "codeUnresolved": [
+    {
+      "name": "--color-text-accent-cyan",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "#004a5e",
+          "next": "#005871",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "var(--theme-cyan-300)",
+          "next": "#99d4e4",
+          "cmp": "code-unresolved"
+        }
+      }
+    },
+    {
+      "name": "--color-text-accent-magenta",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "#600a6a",
+          "next": "#9910a9",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "var(--theme-magenta-300)",
+          "next": "#e5a1ed",
+          "cmp": "code-unresolved"
+        }
+      }
+    },
+    {
+      "name": "--color-text-accent-periwinkle",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "#343b67",
+          "next": "#535fa6",
+          "cmp": "different"
+        },
+        "dark": {
+          "code": "var(--theme-periwinkle-300)",
+          "next": "#bbc0dd",
+          "cmp": "code-unresolved"
+        }
+      }
+    },
+    {
+      "name": "--color-background-static-overlay",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "var(--theme-opacity-black-50)",
+          "next": "#00000080",
+          "cmp": "code-unresolved"
+        },
+        "dark": {
+          "code": "var(--theme-opacity-black-50)",
+          "next": "#00000080",
+          "cmp": "code-unresolved"
+        }
+      }
+    },
+    {
+      "name": "--color-background-interactive-nav-item-default",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "var(--theme-opacity-white-transparent)",
+          "next": "#00000000",
+          "cmp": "code-unresolved"
+        },
+        "dark": {
+          "code": "var(--theme-opacity-white-transparent)",
+          "next": "#ffffff00",
+          "cmp": "code-unresolved"
+        }
+      }
+    },
+    {
+      "name": "--color-background-interactive-nav-item-hovered",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "var(--theme-white-opacity-25)",
+          "next": "#e6f8f9",
+          "cmp": "code-unresolved"
+        },
+        "dark": {
+          "code": "var(--theme-white-opacity-25)",
+          "next": "#ffffff40",
+          "cmp": "code-unresolved"
+        }
+      }
+    },
+    {
+      "name": "--color-background-interactive-nav-item-selected",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "var(--theme-opacity-white-15)",
+          "next": "#e6f8f9",
+          "cmp": "code-unresolved"
+        },
+        "dark": {
+          "code": "var(--theme-opacity-white-15)",
+          "next": "#ffffff26",
+          "cmp": "code-unresolved"
+        }
+      }
+    },
+    {
+      "name": "--color-border-interactive-button-default",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "var(--theme-opacity-black-15)",
+          "next": "#0000000d",
+          "cmp": "code-unresolved"
+        },
+        "dark": {
+          "code": "var(--theme-white-opacity-15)",
+          "next": "#ffffff0d",
+          "cmp": "code-unresolved"
+        }
+      }
+    },
+    {
+      "name": "--space-grid-gap",
+      "how": "figma",
+      "newName": null,
+      "modes": {
+        "light": {
+          "code": "var(--space-unit-400)",
+          "next": "2rem",
+          "cmp": "code-unresolved"
+        },
+        "dark": {
+          "code": "var(--space-unit-400)",
+          "next": "2rem",
+          "cmp": "code-unresolved"
+        }
+      }
+    }
+  ],
+  "density": [
+    {
+      "name": "--space-button-sm-padding-y",
+      "codePx": 4,
+      "perMode": {
+        "compact": 6,
+        "comfortable": 6,
+        "spacious": 6
+      },
+      "matches": []
+    },
+    {
+      "name": "--space-button-md-padding-y",
+      "codePx": 6,
+      "perMode": {
+        "compact": 8,
+        "comfortable": 8,
+        "spacious": 8
+      },
+      "matches": []
+    },
+    {
+      "name": "--space-input-label-gap-x",
+      "codePx": 32,
+      "perMode": {
+        "compact": 16,
+        "comfortable": 16,
+        "spacious": 16
+      },
+      "matches": []
+    },
+    {
+      "name": "--space-nav-bar-padding-y",
+      "codePx": 24,
+      "perMode": {
+        "compact": 12,
+        "comfortable": 12,
+        "spacious": 12
+      },
+      "matches": []
+    },
+    {
+      "name": "--space-table-cell-padding-x",
+      "codePx": 12,
+      "perMode": {
+        "compact": 4,
+        "comfortable": 8,
+        "spacious": 12
+      },
+      "matches": [
+        "spacious"
+      ]
+    },
+    {
+      "name": "--space-table-header-padding-x",
+      "codePx": 12,
+      "perMode": {
+        "compact": 4,
+        "comfortable": 8,
+        "spacious": 12
+      },
+      "matches": [
+        "spacious"
+      ]
+    },
+    {
+      "name": "--space-table-subheader-padding-x",
+      "codePx": 12,
+      "perMode": {
+        "compact": 4,
+        "comfortable": 8,
+        "spacious": 12
+      },
+      "matches": [
+        "spacious"
+      ]
+    },
+    {
+      "name": "--space-table-footer-padding-x",
+      "codePx": 12,
+      "perMode": {
+        "compact": 4,
+        "comfortable": 8,
+        "spacious": 12
+      },
+      "matches": [
+        "spacious"
+      ]
+    },
+    {
+      "name": "--space-spreadsheet-cell-padding-x",
+      "codePx": 4,
+      "perMode": {
+        "compact": 4,
+        "comfortable": 6,
+        "spacious": 8
+      },
+      "matches": [
+        "compact"
+      ]
+    },
+    {
+      "name": "--space-spreadsheet-cell-padding-y",
+      "codePx": 0,
+      "perMode": {
+        "compact": 0,
+        "comfortable": 4,
+        "spacious": 8
+      },
+      "matches": [
+        "compact"
+      ]
+    },
+    {
+      "name": "--space-spreadsheet-header-padding-x",
+      "codePx": 4,
+      "perMode": {
+        "compact": 4,
+        "comfortable": 6,
+        "spacious": 8
+      },
+      "matches": [
+        "compact"
+      ]
+    },
+    {
+      "name": "--space-spreadsheet-header-padding-y",
+      "codePx": 2,
+      "perMode": {
+        "compact": 2,
+        "comfortable": 4,
+        "spacious": 8
+      },
+      "matches": [
+        "compact"
+      ]
+    }
+  ],
+  "renames": {
+    "--units-0": "--space-unit-0",
+    "--units-25": "--space-unit-25",
+    "--units-50": "--space-unit-50",
+    "--units-75": "--space-unit-75",
+    "--units-100": "--space-unit-100",
+    "--units-125": "--space-unit-125",
+    "--units-150": "--space-unit-150",
+    "--units-200": "--space-unit-200",
+    "--units-250": "--space-unit-250",
+    "--units-300": "--space-unit-300",
+    "--units-400": "--space-unit-400",
+    "--units-500": "--space-unit-500",
+    "--units-600": "--space-unit-600",
+    "--units-800": "--space-unit-800",
+    "--units-1000": "--space-unit-1000",
+    "--font-size-xs": "--font-size-body-xs",
+    "--font-size-sm": "--font-size-body-sm",
+    "--font-size-base": "--font-size-body-base",
+    "--font-size-lg": "--font-size-body-lg",
+    "--font-size-body": "--font-size-body-base",
+    "--h1-font-size": "--font-size-headers-h1",
+    "--h2-font-size": "--font-size-headers-h2",
+    "--h3-font-size": "--font-size-headers-h3",
+    "--h4-font-size": "--font-size-headers-h4",
+    "--h5-font-size": "--font-size-headers-h5",
+    "--h6-font-size": "--font-size-headers-h6",
+    "--font-weight-base": "--font-weight-400",
+    "--font-sans-serif": "--font-family-primary",
+    "--font-monospace": "--font-family-code",
+    "--border-radius": "--border-radius-sm",
+    "--border-units-0": "--border-width-unit-0",
+    "--border-units-1": "--border-width-unit-1",
+    "--border-units-2": "--border-width-unit-2",
+    "--border-units-3": "--border-width-unit-3",
+    "--border-units-4": "--border-width-unit-4",
+    "--border-units-5": "--border-width-unit-5",
+    "--link-hover-color": "--color-link-brand-hovered",
+    "--link-active-color": "--color-link-brand-selected",
+    "--link-disabled-color": "--color-text-disabled",
+    "--grid-gutter-width": "--space-grid-gap",
+    "--color-background-interactive-tab-selected": "--color-background-interactive-tab-selected-detached",
+    "--space-navbar-gap-between": "--space-nav-bar-gap-between",
+    "--space-navbar-padding-x": "--space-nav-bar-padding-x",
+    "--space-navbar-padding-y": "--space-nav-bar-padding-y",
+    "--space-nav-item-gap-between": "--space-nav-item-gap-between-x",
+    "--space-tab-padding-x": "--space-tab-sm-padding-x",
+    "--space-tab-padding-y": "--space-tab-sm-padding-y",
+    "--space-table-subheader-paddingtop": "--space-table-subheader-padding-top",
+    "--space-table-subheader-paddingbottom": "--space-table-subheader-padding-bottom",
+    "--theme-gray": "--theme-neutral-600",
+    "--theme-gray-25": "--theme-neutral-25",
+    "--theme-gray-50": "--theme-neutral-50",
+    "--theme-gray-100": "--theme-neutral-100",
+    "--theme-gray-200": "--theme-neutral-200",
+    "--theme-gray-300": "--theme-neutral-300",
+    "--theme-gray-400": "--theme-neutral-400",
+    "--theme-gray-500": "--theme-neutral-500",
+    "--theme-gray-600": "--theme-neutral-600",
+    "--theme-gray-700": "--theme-neutral-700",
+    "--theme-gray-800": "--theme-neutral-800",
+    "--theme-gray-850": "--theme-neutral-850",
+    "--theme-gray-900": "--theme-neutral-900",
+    "--theme-gray-950": "--theme-neutral-950",
+    "--theme-gray-1000": "--theme-neutral-1000",
+    "--theme-gray-1050": "--theme-neutral-1050",
+    "--theme-gray-1100": "--theme-neutral-1100",
+    "--theme-dark": "--theme-neutral-1000",
+    "--theme-black": "--theme-neutral-black",
+    "--theme-white": "--theme-neutral-white",
+    "--theme-certara-red": "--certara-red-500",
+    "--theme-certara-yellow": "--certara-yellow-600",
+    "--theme-accent-orange": "--theme-accent-orange-600",
+    "--theme-accent-pink": "--theme-accent-pink-600",
+    "--theme-accent-magenta": "--theme-accent-magenta-600",
+    "--theme-accent-olive": "--theme-accent-olive-600",
+    "--theme-accent-cyan": "--theme-accent-cyan-600",
+    "--theme-accent-periwinkle": "--theme-accent-periwinkle-600"
+  },
+  "newFromFigma": [
+    "--product-fonts-inter",
+    "--product-fonts-inconsolata",
+    "--product-fonts-fontawesome",
+    "--product-fonts-fontawesome-brand",
+    "--major-2nd-scaling-11",
+    "--major-2nd-scaling-12",
+    "--major-2nd-scaling-14",
+    "--major-2nd-scaling-16",
+    "--major-2nd-scaling-18",
+    "--major-2nd-scaling-20",
+    "--major-2nd-scaling-24",
+    "--major-2nd-scaling-28",
+    "--major-2nd-scaling-32",
+    "--major-2nd-scaling-36",
+    "--major-2nd-scaling-40",
+    "--major-2nd-scaling-46",
+    "--major-2nd-scaling-52",
+    "--major-2nd-scaling-66",
+    "--inter-weights-300-light",
+    "--inter-weights-300-light-italic",
+    "--inter-weights-400-regular",
+    "--inter-weights-400-italic",
+    "--inter-weights-500-medium",
+    "--inter-weights-500-medium-italic",
+    "--inter-weights-600-semibold",
+    "--inter-weights-600-semibold-italic",
+    "--inter-weights-700-bold",
+    "--inter-weights-700-bold-italic",
+    "--fa-weight-solid",
+    "--fa-weight-regular",
+    "--fa-weight-light",
+    "--fa-weight-thin",
+    "--font-size-headers-subheader",
+    "--font-family-icon",
+    "--font-family-brand-icon",
+    "--font-weight-300",
+    "--font-weight-500",
+    "--font-weight-600",
+    "--font-weight-700",
+    "--font-weight-icon-thin",
+    "--font-weight-icon-light",
+    "--font-weight-icon-regular",
+    "--font-weight-icon-solid",
+    "--font-weight-300-italic",
+    "--font-weight-400-italic",
+    "--font-weight-500-italic",
+    "--font-weight-600-italic",
+    "--font-weight-700-italic",
+    "--color-link-nav-item-default",
+    "--color-link-nav-item-hovered",
+    "--color-link-nav-item-pressed",
+    "--color-link-nav-item-selected",
+    "--color-background-gradient-brand-from",
+    "--color-background-gradient-brand-to",
+    "--color-background-gradient-neutral-from",
+    "--color-background-gradient-neutral-to",
+    "--color-background-gradient-inverse-from",
+    "--color-background-gradient-inverse-to",
+    "--color-background-gradient-success-from",
+    "--color-background-gradient-success-to",
+    "--color-background-gradient-danger-from",
+    "--color-background-gradient-danger-to",
+    "--color-border-interactive-nav-item-selected",
+    "--color-empty-state-neutral",
+    "--color-empty-state-strong",
+    "--color-empty-state-stronger",
+    "--color-empty-state-subtle",
+    "--color-empty-state-subtler",
+    "--color-empty-state-subtlest",
+    "--color-empty-state-sui-text",
+    "--color-empty-state-shadow",
+    "--color-empty-state-background",
+    "--color-empty-state-brand",
+    "--color-empty-state-brand-subtle",
+    "--color-empty-state-brand-shadow",
+    "--color-empty-state-yellow",
+    "--color-empty-state-yellow-strong",
+    "--color-empty-state-yellow-subtle",
+    "--color-empty-state-yellow-shadow",
+    "--color-empty-state-red",
+    "--color-empty-state-red-strong",
+    "--color-empty-state-red-subtle",
+    "--color-empty-state-red-subtler",
+    "--color-empty-state-magenta",
+    "--color-empty-state-magenta-strong",
+    "--color-empty-state-magenta-subtle",
+    "--color-empty-state-magenta-subtler",
+    "--color-empty-state-pink",
+    "--color-empty-state-pink-strong",
+    "--color-empty-state-pink-subtle",
+    "--color-empty-state-pink-subtler",
+    "--color-empty-state-olive",
+    "--color-empty-state-olive-strong",
+    "--color-empty-state-olive-subtle",
+    "--color-empty-state-olive-subtler",
+    "--color-empty-state-orange",
+    "--color-empty-state-orange-strong",
+    "--color-empty-state-orange-subtle",
+    "--color-empty-state-orange-subtler",
+    "--theme-accent-taupe-100",
+    "--theme-accent-taupe-200",
+    "--theme-accent-taupe-300",
+    "--theme-accent-taupe-400",
+    "--theme-accent-taupe-500",
+    "--theme-accent-taupe-600",
+    "--theme-accent-taupe-700",
+    "--theme-accent-taupe-800",
+    "--theme-accent-taupe-900",
+    "--theme-accent-taupe-1000",
+    "--theme-accent-taupe-1100",
+    "--theme-opacity-black-5",
+    "--theme-opacity-black-10",
+    "--theme-opacity-black-15",
+    "--theme-opacity-black-20",
+    "--theme-opacity-black-25",
+    "--theme-opacity-black-50",
+    "--theme-opacity-black-70",
+    "--theme-opacity-black-75",
+    "--theme-opacity-black-80",
+    "--theme-opacity-black-90",
+    "--theme-opacity-black-transparent",
+    "--theme-opacity-white-5",
+    "--theme-opacity-white-10",
+    "--theme-opacity-white-15",
+    "--theme-opacity-white-20",
+    "--theme-opacity-white-25",
+    "--theme-opacity-white-50",
+    "--theme-opacity-white-70",
+    "--theme-opacity-white-75",
+    "--theme-opacity-white-80",
+    "--theme-opacity-white-90",
+    "--theme-opacity-white-transparent",
+    "--certara-red-100",
+    "--certara-red-200",
+    "--certara-red-300",
+    "--certara-red-400",
+    "--certara-red-600",
+    "--certara-red-700",
+    "--certara-red-800",
+    "--certara-red-900",
+    "--certara-slate-50",
+    "--certara-slate-100",
+    "--certara-slate-200",
+    "--certara-slate-300",
+    "--certara-slate-400",
+    "--certara-slate-500",
+    "--certara-slate-600",
+    "--certara-slate-700",
+    "--certara-slate-800",
+    "--certara-slate-900",
+    "--certara-slate-1000",
+    "--certara-slate-1100",
+    "--certara-yellow-100",
+    "--certara-yellow-200",
+    "--certara-yellow-300",
+    "--certara-yellow-400",
+    "--certara-yellow-500",
+    "--certara-yellow-700",
+    "--certara-yellow-800",
+    "--certara-yellow-900",
+    "--certara-yellow-1000",
+    "--certara-yellow-1100",
+    "--certara-aqua-100",
+    "--certara-aqua-200",
+    "--certara-aqua-300",
+    "--certara-aqua-400",
+    "--certara-aqua-500",
+    "--certara-aqua-600",
+    "--certara-aqua-700",
+    "--certara-aqua-800",
+    "--certara-aqua-900",
+    "--certara-aqua-1000",
+    "--certara-aqua-1100",
+    "--space-nav-item-gap-between-y",
+    "--space-tab-lg-padding-x",
+    "--space-tab-lg-padding-y",
+    "--size-avatar-16",
+    "--size-avatar-xs",
+    "--size-avatar-sm",
+    "--size-avatar-md",
+    "--size-avatar-lg",
+    "--size-label-min-width",
+    "--size-label-max-width",
+    "--size-input-min-width",
+    "--size-input-max-width",
+    "--size-input-min-height-sm",
+    "--size-input-min-height-md"
+  ],
+  "notGenerated": [
+    "--icon-search",
+    "--icon-chevron-brand",
+    "--icon-chevron-neutral",
+    "--icon-spinner",
+    "--icon-check-success",
+    "--icon-cross-neutral",
+    "--icon-cross-danger",
+    "--icon-drag-handle-default",
+    "--icon-drag-handle-active"
+  ],
+  "aliasChain": [
+    {
+      "name": "--space-nav-item-gap-outside",
+      "code": "--units-100",
+      "figma": "--space-nav-bar-gap-between"
+    },
+    {
+      "name": "--space-table-footer-padding-y",
+      "code": "--units-75",
+      "figma": "--space-table-header-padding-y"
+    }
+  ],
+  "figmaIssues": [
+    "`theme/opacity/white/20` aliases `product/white/opacity/25` (25% white, not 20%). `product/white/opacity/20` exists but is unused.",
+    "`space/container/sm/gap outside` aliases a variable from another library file (`VariableID:4cbba4ee0431dc99a284bee454f2903bf28de8c7/15657:223` — the published library's own `space/unit/75`, 6px). Re-pointed to the local `space/unit/75` in the tokens; fix the alias in Figma.",
+    "`theme/accent` has cyan, magenta, olive, orange, pink, taupe but no periwinkle; 4 semantic color tokens reference `product/periwinkle/*` primitives directly (`color/background/static/accent periwinkle`, `color/background/static/accent periwinkle subtle`, `color/icon/accent periwinkle`, `color/text/accent periwinkle`). certara-ui has `--theme-accent-periwinkle-*`; they are kept as extended tokens.",
+    "Semantic tokens that skip the theme layer and alias primitives directly: `color/background/static/accent cyan subtle`, `color/background/interactive/nav item/hovered`, `color/text/accent cyan`, `color/text/accent magenta`, `color/text/accent olive`, `color/text/accent orange`.",
+    "447 variables use `ALL_SCOPES` (every property picker) — mostly Color Primitives (221) and all 174 `theme/*` colors. Scope them (e.g. primitives to none, since the collection is hidden).",
+    "`color/background/interactive/disabled` is the only variable with codeSyntax (WEB = `bg-disabled`), which doesn't match its generated CSS name `--color-background-interactive-disabled`. Set codeSyntax.WEB on all variables to the generated names (or none).",
+    "Font weights are Figma font-style strings (e.g. `inter-weights/400 Regular` = \"Regular\"), not numbers; @certara/styles maps them to 100–900. Italic variants map to the same numeric weight (italic is a font-style).",
+    "`font/family/*` holds only the family name (\"Inter\"); fallback stacks are added in @certara/styles.",
+    "Text style `Headings/h5/Semibold (600)` exists 3 times with different line heights (150%, 130%, 110%).",
+    "Text style `Body/xs/Medium (500)` is named 500 but uses weight 400 (Regular).",
+    "Text style `Headings/h5/Semibold (600)` uses font style \"SemiBold\" (Inter's style is \"Semi Bold\"), so it isn't bound to a real font style.",
+    "Text style `Headings/h6/Semibold 150 (600)` is named 600 but uses weight 500 (Medium).",
+    "Nav Bar Modes (`Is expanded`, `Is collapsed`, `Global nav bar width`, `Designer nav bar width`) are prototype state; not emitted as CSS. certara-ui's `--sidebar-nav-global-width` (64px) equals the Collapsed \"Global nav bar width\" but Expanded is 200px vs code's contextual width of 208px."
+  ],
+  "codeBugs": [
+    "Referenced but never defined in light: `--space-unit-400`, `--theme-opacity-black-15`, `--theme-opacity-black-50`, `--theme-opacity-white-15`, `--theme-opacity-white-transparent`, `--theme-white-opacity-25`.",
+    "Referenced but never defined in dark: `--theme-cyan-300`, `--theme-magenta-300`, `--theme-periwinkle-300`, `--theme-white-opacity-15`.",
+    "`.bg-gradient` uses `var(--gradient)` and `.rounded-pill` uses `var(--border-radius-pill)`; neither is declared on `:root` (`--gradient` is only set inside button styles), so both utilities do nothing on their own. `--border-radius-pill` was probably meant to be `--border-radius-full` (Figma `border/radius/full`).",
+    "`sass-utils/_utilities.scss:118-150` — `var(--border-width, --border-width-default)`: the fallback is a bare custom-property name, which is invalid (harmless only because `--border-width` is always defined).",
+    "`sass-utils/_utilities.scss:465` — the `py` utility sets `padding-block-start` and `padding-block` instead of `padding-block-start` + `padding-block-end`.",
+    "`sass-utils/_variables-base.scss:145` — `ar(--color-link-brand-inverse-hover)` is missing the `v` of `var(`.",
+    "`--table-striped-bg: rgba(var(--theme-neutral-400), 0.05)` — `--theme-neutral-400` is a hex color, so this rgba() is invalid. Emitted verbatim; should use `--theme-neutral-400-rgb`.",
+    "`[data-theme=dark]` declares the tab and table background variables twice (lines from the \"figma sync\" block and again with hex fallbacks); the later declarations win.",
+    "Semantic aliases such as `--body-color: var(--color-text-primary)` are declared only on `:root`, so a nested `[data-theme=dark]` element inherits the light value. @certara/styles re-declares every mode-dependent variable inside `[data-theme=dark]`."
+  ]
+}

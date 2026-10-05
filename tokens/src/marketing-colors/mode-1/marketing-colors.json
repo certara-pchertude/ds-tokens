@@ -1,0 +1,569 @@
+{
+  "Certara Red": {
+    "100": {
+      "$type": "color",
+      "$value": "{marketing.certara red.100}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17158",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "{marketing.certara red.200}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17159",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "300": {
+      "$type": "color",
+      "$value": "{marketing.certara red.300}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17160",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "400": {
+      "$type": "color",
+      "$value": "{marketing.certara red.400}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17161",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "500": {
+      "$type": "color",
+      "$value": "{marketing.certara red.500}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17162",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "600": {
+      "$type": "color",
+      "$value": "{marketing.certara red.600}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17163",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "700": {
+      "$type": "color",
+      "$value": "{marketing.certara red.700}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17164",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "800": {
+      "$type": "color",
+      "$value": "{marketing.certara red.800}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17165",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "900": {
+      "$type": "color",
+      "$value": "{marketing.certara red.900}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17166",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    }
+  },
+  "Certara Slate": {
+    "50": {
+      "$type": "color",
+      "$value": "{product.slate.50}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17178",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "100": {
+      "$type": "color",
+      "$value": "{product.slate.100}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17167",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "{product.slate.200}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17168",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "300": {
+      "$type": "color",
+      "$value": "{product.slate.300}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17169",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "400": {
+      "$type": "color",
+      "$value": "{product.slate.400}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17170",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "500": {
+      "$type": "color",
+      "$value": "{product.slate.500}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17171",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "600": {
+      "$type": "color",
+      "$value": "{product.slate.600}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17172",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "700": {
+      "$type": "color",
+      "$value": "{product.slate.700}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17173",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "800": {
+      "$type": "color",
+      "$value": "{product.slate.800}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17174",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "900": {
+      "$type": "color",
+      "$value": "{product.slate.900}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17175",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "1000": {
+      "$type": "color",
+      "$value": "{product.slate.1000}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17176",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "1100": {
+      "$type": "color",
+      "$value": "{product.slate.1100}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17177",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    }
+  },
+  "Certara Yellow": {
+    "100": {
+      "$type": "color",
+      "$value": "{product.yellow.100}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17180",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "{product.yellow.200}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17181",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "300": {
+      "$type": "color",
+      "$value": "{product.yellow.300}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17182",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "400": {
+      "$type": "color",
+      "$value": "{product.yellow.400}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17183",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "500": {
+      "$type": "color",
+      "$value": "{product.yellow.500}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17184",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "600": {
+      "$type": "color",
+      "$value": "{product.yellow.600}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17185",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "700": {
+      "$type": "color",
+      "$value": "{product.yellow.700}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17186",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "800": {
+      "$type": "color",
+      "$value": "{product.yellow.800}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17187",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "900": {
+      "$type": "color",
+      "$value": "{product.yellow.900}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17188",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "1000": {
+      "$type": "color",
+      "$value": "{product.yellow.1000}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17189",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "1100": {
+      "$type": "color",
+      "$value": "{product.yellow.1100}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17190",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    }
+  },
+  "Certara Aqua": {
+    "100": {
+      "$type": "color",
+      "$value": "{product.cyan.100}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17191",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "{product.cyan.200}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17192",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "300": {
+      "$type": "color",
+      "$value": "{product.cyan.300}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17193",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "400": {
+      "$type": "color",
+      "$value": "{product.cyan.400}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17194",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "500": {
+      "$type": "color",
+      "$value": "{product.cyan.500}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17195",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "600": {
+      "$type": "color",
+      "$value": "{product.cyan.600}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17196",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "700": {
+      "$type": "color",
+      "$value": "{product.cyan.700}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17197",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "800": {
+      "$type": "color",
+      "$value": "{product.cyan.800}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17198",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "900": {
+      "$type": "color",
+      "$value": "{product.cyan.900}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17199",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "1000": {
+      "$type": "color",
+      "$value": "{product.cyan.1000}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17200",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "1100": {
+      "$type": "color",
+      "$value": "{product.cyan.1100}",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:2815:17201",
+          "collection": "Marketing Colors",
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    }
+  }
+}

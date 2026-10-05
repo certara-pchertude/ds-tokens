@@ -1,0 +1,39 @@
+{
+  "name": "@certara/tokens",
+  "version": "0.4.15",
+  "description": "Certara design tokens (W3C DTCG JSON). Mirrors the Certara Design Library Figma variables 1:1 and is the source of truth for @certara/styles.",
+  "type": "module",
+  "main": "lib/index.mjs",
+  "exports": {
+    ".": "./lib/index.mjs",
+    "./collections.json": "./collections.json",
+    "./rename-map.json": "./rename-map.json",
+    "./src/*": "./src/*",
+    "./extended/*": "./extended/*",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib/",
+    "src/",
+    "extended/",
+    "collections.json",
+    "rename-map.json"
+  ],
+  "scripts": {
+    "import:figma": "node scripts/import-figma.mjs",
+    "validate": "node scripts/validate.mjs",
+    "roundtrip": "node scripts/roundtrip.mjs",
+    "build": "node scripts/validate.mjs"
+  },
+  "engines": {
+    "node": ">=20.10"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.47"
+  },
+  "publishConfig": {
+    "registry": "https://certara.jfrog.io/artifactory/api/npm/product-design-infrastructure/",
+    "access": "public"
+  },
+  "license": "MIT"
+}

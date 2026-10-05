@@ -1,0 +1,36 @@
+{
+  "$description": "Code-only spacing, sizing, border and stacking tokens.",
+  "space": {
+    "unit": {
+      "125": { "$type": "dimension", "$value": { "value": 10, "unit": "px" }, "$description": "Missing from Figma's space/unit scale." }
+    },
+    "table": {
+      "cell": {
+        "padding x sort": { "$type": "dimension", "$value": "{space.unit.200}" }
+      }
+    }
+  },
+  "size": {
+    "popover": {
+      "width": { "$type": "dimension", "$value": { "value": 375, "unit": "px" } }
+    }
+  },
+  "border": {
+    "style": { "$type": "string", "$value": "solid" }
+  },
+  "grid": {
+    "columns": { "$type": "number", "$value": 12 }
+  },
+  "zindex": {
+    "sidebar": { "$type": "number", "$value": 1000 },
+    "dropdown": { "$type": "number", "$value": 1010 },
+    "sticky": { "$type": "number", "$value": 1020 },
+    "fixed": { "$type": "number", "$value": 1030 },
+    "modal-backdrop": { "$type": "number", "$value": 1050 },
+    "modal": { "$type": "number", "$value": 1055 },
+    "popover": { "$type": "number", "$value": 1070 },
+    "tooltip": { "$type": "number", "$value": 1080 },
+    "autocomplete": { "$type": "number", "$value": 1085 },
+    "toast": { "$type": "number", "$value": 1090 }
+  }
+}

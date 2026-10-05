@@ -1,0 +1,61 @@
+{
+  "Is expanded": {
+    "$type": "boolean",
+    "$value": true,
+    "$description": "Use this to expand or collapse the sidebar navigation menu",
+    "$extensions": {
+      "com.figma": {
+        "variableId": "VariableID:3835:28030",
+        "collection": "Nav Bar Modes",
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "Is collapsed": {
+    "$type": "boolean",
+    "$value": false,
+    "$extensions": {
+      "com.figma": {
+        "variableId": "VariableID:15611:7038",
+        "collection": "Nav Bar Modes",
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "Global nav bar width": {
+    "$type": "dimension",
+    "$value": {
+      "value": 200,
+      "unit": "px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "variableId": "VariableID:15611:7037",
+        "collection": "Nav Bar Modes",
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "Designer nav bar width": {
+    "$type": "dimension",
+    "$value": {
+      "value": 96,
+      "unit": "px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "variableId": "VariableID:15611:12558",
+        "collection": "Nav Bar Modes",
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  }
+}

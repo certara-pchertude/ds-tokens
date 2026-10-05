@@ -1,0 +1,53 @@
+{
+  "$description": "Code-only color tokens: present in certara-ui today but missing from the Figma variables. Each should be added to Figma (then moved into src/) or deleted.",
+  "theme": {
+    "accent": {
+      "periwinkle": {
+        "100": { "$type": "color", "$value": "{product.periwinkle.100}" },
+        "200": { "$type": "color", "$value": "{product.periwinkle.200}" },
+        "300": { "$type": "color", "$value": "{product.periwinkle.300}" },
+        "400": { "$type": "color", "$value": "{product.periwinkle.400}" },
+        "500": { "$type": "color", "$value": "{product.periwinkle.500}" },
+        "600": { "$type": "color", "$value": "{product.periwinkle.600}" },
+        "700": { "$type": "color", "$value": "{product.periwinkle.700}" },
+        "800": { "$type": "color", "$value": "{product.periwinkle.800}" },
+        "900": { "$type": "color", "$value": "{product.periwinkle.900}" },
+        "1000": { "$type": "color", "$value": "{product.periwinkle.1000}" },
+        "1100": { "$type": "color", "$value": "{product.periwinkle.1100}" }
+      }
+    }
+  },
+  "color": {
+    "text": {
+      "badge neutral": { "$type": "color", "$value": "{theme.neutral.700}" },
+      "accent": {
+        "olive strong": {
+          "$type": "color",
+          "$value": "{theme.accent.olive.400}",
+          "$description": "Defined only for dark mode in certara-ui.",
+          "$extensions": { "com.certara": { "darkOnly": true } }
+        },
+        "orange strong": {
+          "$type": "color",
+          "$value": "{theme.accent.orange.400}",
+          "$description": "Defined only for dark mode in certara-ui.",
+          "$extensions": { "com.certara": { "darkOnly": true } }
+        }
+      }
+    },
+    "background": {
+      "static": {
+        "badge neutral": { "$type": "color", "$value": "{theme.neutral.200}" }
+      },
+      "interactive": {
+        "table": {
+          "zebra stripe": { "$type": "color", "$value": "{color.background.static.neutral}" }
+        }
+      }
+    }
+  },
+  "body": {
+    "color": { "$type": "color", "$value": "{color.text.primary}" },
+    "bg": { "$type": "color", "$value": "{color.background.static.neutral}" }
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "font": {
+    "size": {
+      "headers": {
+        "h1": {
+          "$type": "dimension",
+          "$value": "{major-2nd-scaling.28}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:8581:31189",
+              "collection": "Font Tokens",
+              "scopes": [
+                "FONT_SIZE"
+              ]
+            }
+          }
+        },
+        "h2": {
+          "$type": "dimension",
+          "$value": "{major-2nd-scaling.24}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:8581:31190",
+              "collection": "Font Tokens",
+              "scopes": [
+                "FONT_SIZE"
+              ]
+            }
+          }
+        },
+        "h3": {
+          "$type": "dimension",
+          "$value": "{major-2nd-scaling.20}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:8581:31191",
+              "collection": "Font Tokens",
+              "scopes": [
+                "FONT_SIZE"
+              ]
+            }
+          }
+        },
+        "h4": {
+          "$type": "dimension",
+          "$value": "{major-2nd-scaling.18}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:8581:31192",
+              "collection": "Font Tokens",
+              "scopes": [
+                "FONT_SIZE"
+              ]
+            }
+          }
+        },
+        "h5": {
+          "$type": "dimension",
+          "$value": "{major-2nd-scaling.16}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:8581:31193",
+              "collection": "Font Tokens",
+              "scopes": [
+                "FONT_SIZE"
+              ]
+            }
+          }
+        },
+        "h6": {
+          "$type": "dimension",
+          "$value": "{major-2nd-scaling.14}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:8581:31194",
+              "collection": "Font Tokens",
+              "scopes": [
+                "FONT_SIZE"
+              ]
+            }
+          }
+        },
+        "subheader": {
+          "$type": "dimension",
+          "$value": "{major-2nd-scaling.12}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:8581:31195",
+              "collection": "Font Tokens",
+              "scopes": [
+                "FONT_SIZE"
+              ]
+            }
+          }
+        }
+      },
+      "body": {
+        "xs": {
+          "$type": "dimension",
+          "$value": "{major-2nd-scaling.11}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:8581:31185",
+              "collection": "Font Tokens",
+              "scopes": [
+                "FONT_SIZE"
+              ]
+            }
+          }
+        },
+        "sm": {
+          "$type": "dimension",
+          "$value": "{major-2nd-scaling.12}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:8581:31186",
+              "collection": "Font Tokens",
+              "scopes": [
+                "FONT_SIZE"
+              ]
+            }
+          }
+        },
+        "base": {
+          "$type": "dimension",
+          "$value": "{major-2nd-scaling.14}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:8581:31187",
+              "collection": "Font Tokens",
+              "scopes": [
+                "FONT_SIZE"
+              ]
+            }
+          }
+        },
+        "lg": {
+          "$type": "dimension",
+          "$value": "{major-2nd-scaling.18}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:8581:31188",
+              "collection": "Font Tokens",
+              "scopes": [
+                "FONT_SIZE"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "family": {
+      "primary": {
+        "$type": "fontFamily",
+        "$value": "{product-fonts.Inter}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:8581:31172",
+            "collection": "Font Tokens",
+            "scopes": [
+              "FONT_FAMILY"
+            ]
+          }
+        }
+      },
+      "code": {
+        "$type": "fontFamily",
+        "$value": "{product-fonts.Inconsolata}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:8581:31174",
+            "collection": "Font Tokens",
+            "scopes": [
+              "FONT_FAMILY"
+            ]
+          }
+        }
+      },
+      "icon": {
+        "$type": "fontFamily",
+        "$value": "{product-fonts.FontAwesome}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:8581:31205",
+            "collection": "Font Tokens",
+            "scopes": [
+              "FONT_FAMILY"
+            ]
+          }
+        }
+      },
+      "brand icon": {
+        "$type": "fontFamily",
+        "$value": "{product-fonts.FontAwesome Brand}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:8581:31206",
+            "collection": "Font Tokens",
+            "scopes": [
+              "FONT_FAMILY"
+            ]
+          }
+        }
+      }
+    },
+    "weight": {
+      "300": {
+        "$type": "string",
+        "$value": "{inter-weights.300 Light}",
+        "$description": "light weight",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:8581:31173",
+            "collection": "Font Tokens",
+            "scopes": [
+              "FONT_STYLE"
+            ]
+          }
+        }
+      },
+      "400": {
+        "$type": "string",
+        "$value": "{inter-weights.400 Regular}",
+        "$description": "regular weight",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:8581:31177",
+            "collection": "Font Tokens",
+            "scopes": [
+              "FONT_STYLE"
+            ]
+          }
+        }
+      },
+      "500": {
+        "$type": "string",
+        "$value": "{inter-weights.500 Medium}",
+        "$description": "medium weight",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:8581:31179",
+            "collection": "Font Tokens",
+            "scopes": [
+              "FONT_STYLE"
+            ]
+          }
+        }
+      },
+      "600": {
+        "$type": "string",
+        "$value": "{inter-weights.600 Semibold}",
+        "$description": "semibold weight",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:8581:31181",
+            "collection": "Font Tokens",
+            "scopes": [
+              "FONT_STYLE"
+            ]
+          }
+        }
+      },
+      "700": {
+        "$type": "string",
+        "$value": "{inter-weights.700 Bold}",
+        "$description": "bold weight",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:8581:31183",
+            "collection": "Font Tokens",
+            "scopes": [
+              "FONT_STYLE"
+            ]
+          }
+        }
+      },
+      "icon": {
+        "thin": {
+          "$type": "string",
+          "$value": "{fa-weight.thin}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:8582:31236",
+              "collection": "Font Tokens",
+              "scopes": [
+                "FONT_STYLE"
+              ]
+            }
+          }
+        },
+        "light": {
+          "$type": "string",
+          "$value": "{fa-weight.light}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:8582:31237",
+              "collection": "Font Tokens",
+              "scopes": [
+                "FONT_STYLE"
+              ]
+            }
+          }
+        },
+        "regular": {
+          "$type": "string",
+          "$value": "{fa-weight.regular}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:8582:31238",
+              "collection": "Font Tokens",
+              "scopes": [
+                "FONT_STYLE"
+              ]
+            }
+          }
+        },
+        "solid": {
+          "$type": "string",
+          "$value": "{fa-weight.solid}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:8582:31239",
+              "collection": "Font Tokens",
+              "scopes": [
+                "FONT_STYLE"
+              ]
+            }
+          }
+        }
+      },
+      "300 italic": {
+        "$type": "string",
+        "$value": "{inter-weights.300 Light Italic}",
+        "$description": "light weight",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:8581:31175",
+            "collection": "Font Tokens",
+            "scopes": [
+              "FONT_STYLE"
+            ]
+          }
+        }
+      },
+      "400 italic": {
+        "$type": "string",
+        "$value": "{inter-weights.400 Italic}",
+        "$description": "regular weight",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:8581:31178",
+            "collection": "Font Tokens",
+            "scopes": [
+              "FONT_STYLE"
+            ]
+          }
+        }
+      },
+      "500 italic": {
+        "$type": "string",
+        "$value": "{inter-weights.500 Medium Italic}",
+        "$description": "medium weight",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:8581:31180",
+            "collection": "Font Tokens",
+            "scopes": [
+              "FONT_STYLE"
+            ]
+          }
+        }
+      },
+      "600 italic": {
+        "$type": "string",
+        "$value": "{inter-weights.600 Semibold Italic}",
+        "$description": "semibold weight",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:8581:31182",
+            "collection": "Font Tokens",
+            "scopes": [
+              "FONT_STYLE"
+            ]
+          }
+        }
+      },
+      "700 italic": {
+        "$type": "string",
+        "$value": "{inter-weights.700 Bold Italic}",
+        "$description": "bold weight",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:8581:31184",
+            "collection": "Font Tokens",
+            "scopes": [
+              "FONT_STYLE"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,595 @@
+{
+  "size": {
+    "avatar": {
+      "16": {
+        "$type": "dimension",
+        "$value": {
+          "value": 16,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:15611:12249",
+            "collection": "Size Tokens",
+            "scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        }
+      },
+      "18": {
+        "$type": "dimension",
+        "$value": {
+          "value": 18,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:15611:12248",
+            "collection": "Size Tokens",
+            "scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        }
+      },
+      "20": {
+        "$type": "dimension",
+        "$value": {
+          "value": 20,
+          "unit": "px"
+        },
+        "$description": "avatar or icon sizes",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:9612:22929",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT",
+              "FONT_VARIATIONS"
+            ]
+          }
+        }
+      },
+      "24": {
+        "$type": "dimension",
+        "$value": {
+          "value": 24,
+          "unit": "px"
+        },
+        "$description": "avatar or icon sizes",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2989:1536",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      },
+      "30": {
+        "$type": "dimension",
+        "$value": {
+          "value": 30,
+          "unit": "px"
+        },
+        "$description": "avatar or icon sizes",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2989:1535",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      },
+      "36": {
+        "$type": "dimension",
+        "$value": {
+          "value": 36,
+          "unit": "px"
+        },
+        "$description": "avatar or icon sizes",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2989:1537",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      },
+      "50": {
+        "$type": "dimension",
+        "$value": {
+          "value": 50,
+          "unit": "px"
+        },
+        "$description": "avatar or icon sizes",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2989:1538",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      },
+      "75": {
+        "$type": "dimension",
+        "$value": {
+          "value": 75,
+          "unit": "px"
+        },
+        "$description": "avatar or icon sizes",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2989:1539",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      },
+      "150": {
+        "$type": "dimension",
+        "$value": {
+          "value": 150,
+          "unit": "px"
+        },
+        "$description": "avatar or icon sizes",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2989:1540",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      },
+      "xs": {
+        "$type": "dimension",
+        "$value": "{font.size.body.xs}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:9612:22926",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT",
+              "FONT_VARIATIONS"
+            ]
+          }
+        }
+      },
+      "sm": {
+        "$type": "dimension",
+        "$value": "{font.size.body.sm}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:9612:22925",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT",
+              "FONT_VARIATIONS"
+            ]
+          }
+        }
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": "{font.size.body.base}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:9612:22927",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT",
+              "FONT_VARIATIONS"
+            ]
+          }
+        }
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": "{font.size.body.lg}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:9612:22928",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT",
+              "FONT_VARIATIONS"
+            ]
+          }
+        }
+      }
+    },
+    "alert": {
+      "min-width": {
+        "$type": "dimension",
+        "$value": {
+          "value": 150,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2739:25808",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      },
+      "max-width": {
+        "$type": "dimension",
+        "$value": {
+          "value": 3000,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2739:25809",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      }
+    },
+    "button": {
+      "min-height sm": {
+        "$type": "dimension",
+        "$value": {
+          "value": 32,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:8242:15359",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      },
+      "min-height md": {
+        "$type": "dimension",
+        "$value": {
+          "value": 40,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:8242:15361",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      },
+      "min-height lg": {
+        "$type": "dimension",
+        "$value": {
+          "value": 48,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:8242:15362",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      }
+    },
+    "container": {
+      "min-width": {
+        "$type": "dimension",
+        "$value": {
+          "value": 200,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2739:25767",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      },
+      "max-width": {
+        "$type": "dimension",
+        "$value": {
+          "value": 3000,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2739:25768",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      }
+    },
+    "dropdown menu": {
+      "min-width": {
+        "$type": "dimension",
+        "$value": {
+          "value": 150,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2739:25811",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      },
+      "max-width": {
+        "$type": "dimension",
+        "$value": {
+          "value": 1200,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2739:25812",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      }
+    },
+    "label": {
+      "min-width": {
+        "$type": "dimension",
+        "$value": {
+          "value": 16,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2739:25765",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      },
+      "max-width": {
+        "$type": "dimension",
+        "$value": {
+          "value": 200,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2739:25766",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      }
+    },
+    "input": {
+      "min-width": {
+        "$type": "dimension",
+        "$value": {
+          "value": 30,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2739:25817",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      },
+      "max-width": {
+        "$type": "dimension",
+        "$value": {
+          "value": 1200,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2739:25818",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      },
+      "min-height sm": {
+        "$type": "dimension",
+        "$value": "{size.button.min-height sm}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:13351:91",
+            "collection": "Size Tokens",
+            "scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        }
+      },
+      "min-height md": {
+        "$type": "dimension",
+        "$value": "{size.button.min-height md}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:13351:90",
+            "collection": "Size Tokens",
+            "scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        }
+      }
+    },
+    "popover": {
+      "min-width": {
+        "$type": "dimension",
+        "$value": {
+          "value": 15,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2739:25815",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      },
+      "max-width": {
+        "$type": "dimension",
+        "$value": {
+          "value": 500,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2739:25816",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      }
+    },
+    "modal": {
+      "sm": {
+        "$type": "dimension",
+        "$value": {
+          "value": 350,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2739:25761",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": {
+          "value": 500,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2739:25762",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": {
+          "value": 800,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2739:25763",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      },
+      "xl": {
+        "$type": "dimension",
+        "$value": {
+          "value": 1200,
+          "unit": "px"
+        },
+        "$description": "Modal widths",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2739:25764",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      }
+    },
+    "tooltip": {
+      "min-width": {
+        "$type": "dimension",
+        "$value": {
+          "value": 15,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2739:25813",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      },
+      "max-width": {
+        "$type": "dimension",
+        "$value": {
+          "value": 500,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2739:25814",
+            "collection": "Size Tokens",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "$description": "Override hooks: custom properties that utility classes re-declare locally (e.g. .border-2 sets --border-width, .border-danger sets --border-color). They keep their short names and default to the Figma token shown.",
+  "border-width": { "$type": "dimension", "$value": "{border.width.default}", "$description": "Set locally by .border-1 … .border-5." },
+  "border-color": { "$type": "color", "$value": "{color.border.static.neutral}", "$description": "Set locally by the .border-{color} utilities." },
+  "link-color": { "$type": "color", "$value": "{color.link.brand.default}", "$description": "Set locally by link utilities." }
+}

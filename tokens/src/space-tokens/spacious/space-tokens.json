@@ -1,0 +1,1488 @@
+{
+  "space": {
+    "alert": {
+      "padding x": {
+        "$type": "dimension",
+        "$value": "{space.unit.200}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36363",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "padding y": {
+        "$type": "dimension",
+        "$value": "{space.unit.200}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36364",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "gap between": {
+        "$type": "dimension",
+        "$value": "{space.unit.100}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36365",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      }
+    },
+    "breadcrumb": {
+      "padding x": {
+        "$type": "dimension",
+        "$value": "{space.page.padding x}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2735:25410",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "padding y": {
+        "$type": "dimension",
+        "$value": "{space.unit.100}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2735:25411",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "gap between": {
+        "$type": "dimension",
+        "$value": "{space.unit.150}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2735:25408",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      }
+    },
+    "badge": {
+      "gap between": {
+        "$type": "dimension",
+        "$value": "{space.unit.75}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36366",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "padding x": {
+        "$type": "dimension",
+        "$value": "{space.unit.50}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36367",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "padding x pill": {
+        "$type": "dimension",
+        "$value": "{space.unit.75}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2284:35332",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "padding y": {
+        "$type": "dimension",
+        "$value": "{space.unit.25}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36368",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      }
+    },
+    "button": {
+      "all": {
+        "gap outside": {
+          "$type": "dimension",
+          "$value": "{space.unit.100}",
+          "$description": "Place this variable on the parent's \"gap between\" when you have a group of buttons. Similar to margins for buttons",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36393",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "gap between": {
+          "$type": "dimension",
+          "$value": "{space.unit.75}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36392",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        }
+      },
+      "sm": {
+        "gap between": {
+          "$type": "dimension",
+          "$value": "{space.button.all.gap between}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36379",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding x": {
+          "$type": "dimension",
+          "$value": "{space.unit.100}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36380",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding y": {
+          "$type": "dimension",
+          "$value": "{space.unit.75}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36381",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        }
+      },
+      "md": {
+        "gap between": {
+          "$type": "dimension",
+          "$value": "{space.button.all.gap between}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36382",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding x": {
+          "$type": "dimension",
+          "$value": "{space.unit.150}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36383",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding y": {
+          "$type": "dimension",
+          "$value": "{space.unit.100}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36384",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        }
+      },
+      "lg": {
+        "gap between": {
+          "$type": "dimension",
+          "$value": "{space.button.all.gap between}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36385",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding x": {
+          "$type": "dimension",
+          "$value": "{space.unit.200}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36386",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding y": {
+          "$type": "dimension",
+          "$value": "{space.unit.100}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36387",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "container": {
+      "sm": {
+        "gap between": {
+          "$type": "dimension",
+          "$value": "{space.unit.75}",
+          "$description": "cards, widget boxes",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2305:35393",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "gap outside": {
+          "$type": "dimension",
+          "$value": "{space.unit.75}",
+          "$description": "cards, widget boxes",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2754:28255",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ],
+              "externalAlias": "VariableID:4cbba4ee0431dc99a284bee454f2903bf28de8c7/15657:223"
+            }
+          }
+        },
+        "padding x": {
+          "$type": "dimension",
+          "$value": "{space.unit.150}",
+          "$description": "cards, widget boxes",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2305:35394",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding y": {
+          "$type": "dimension",
+          "$value": "{space.unit.100}",
+          "$description": "cards, widget boxes",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2305:35395",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        }
+      },
+      "md": {
+        "gap between": {
+          "$type": "dimension",
+          "$value": "{space.unit.100}",
+          "$description": "cards, widget boxes",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36369",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "gap outside": {
+          "$type": "dimension",
+          "$value": "{space.unit.200}",
+          "$description": "cards, widget boxes",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2754:28254",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding x": {
+          "$type": "dimension",
+          "$value": "{space.unit.200}",
+          "$description": "cards, widget boxes",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36370",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding y": {
+          "$type": "dimension",
+          "$value": "{space.unit.200}",
+          "$description": "cards, widget boxes",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36371",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "form error": {
+      "gap between": {
+        "$type": "dimension",
+        "$value": "{space.unit.75}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36376",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "padding x": {
+        "$type": "dimension",
+        "$value": "{space.unit.75}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36377",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "padding y": {
+        "$type": "dimension",
+        "$value": "{space.unit.75}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36378",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      }
+    },
+    "input": {
+      "gap between": {
+        "$type": "dimension",
+        "$value": "{space.unit.100}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36372",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "gap outside": {
+        "$type": "dimension",
+        "$value": "{space.unit.300}",
+        "$description": "Space between each form input element. Margin between form groups. Form field spacing.",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2306:35613",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "label gap x": {
+        "$type": "dimension",
+        "$value": "{space.unit.200}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2294:35389",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "label gap y": {
+        "$type": "dimension",
+        "$value": "{space.unit.50}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2294:35388",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "md padding x": {
+        "$type": "dimension",
+        "$value": "{space.unit.150}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36373",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "md padding y": {
+        "$type": "dimension",
+        "$value": "{space.unit.75}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36374",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "sm padding x": {
+        "$type": "dimension",
+        "$value": "{space.unit.100}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2294:35386",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "sm padding y": {
+        "$type": "dimension",
+        "$value": "{space.unit.50}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2294:35387",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "control gap outside": {
+        "$type": "dimension",
+        "$value": "{space.unit.150}",
+        "$description": "Spacing between radio and checkboxes",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2758:5590",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      }
+    },
+    "list item": {
+      "gap between": {
+        "$type": "dimension",
+        "$value": "{space.unit.100}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2306:35608",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "gap outside": {
+        "$type": "dimension",
+        "$value": "{space.unit.0}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2306:35609",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "padding x": {
+        "$type": "dimension",
+        "$value": "{space.unit.150}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2306:35610",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "md padding y": {
+        "$type": "dimension",
+        "$value": "{space.unit.100}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2306:35611",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "sm padding y": {
+        "$type": "dimension",
+        "$value": "{space.unit.50}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2306:35612",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      }
+    },
+    "modal": {
+      "gap between": {
+        "$type": "dimension",
+        "$value": "{space.unit.200}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36394",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "padding x": {
+        "$type": "dimension",
+        "$value": "{space.unit.200}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36395",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "padding y": {
+        "$type": "dimension",
+        "$value": "{space.unit.200}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36396",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      }
+    },
+    "nav bar": {
+      "gap between": {
+        "$type": "dimension",
+        "$value": "{space.unit.100}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2305:35404",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "padding x": {
+        "$type": "dimension",
+        "$value": "{space.unit.150}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2305:35406",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "padding y": {
+        "$type": "dimension",
+        "$value": "{space.unit.150}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2305:35407",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      }
+    },
+    "nav item": {
+      "gap outside": {
+        "$type": "dimension",
+        "$value": "{space.nav bar.gap between}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2305:35398",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "gap between x": {
+        "$type": "dimension",
+        "$value": "{space.unit.200}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2305:35397",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "gap between y": {
+        "$type": "dimension",
+        "$value": "{space.unit.75}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:15611:12559",
+            "collection": "Space Tokens",
+            "scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        }
+      },
+      "padding x": {
+        "$type": "dimension",
+        "$value": "{space.unit.100}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2305:35399",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "padding y": {
+        "$type": "dimension",
+        "$value": "{space.unit.100}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2305:35400",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      }
+    },
+    "page": {
+      "gap between": {
+        "$type": "dimension",
+        "$value": "{space.unit.200}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2735:25405",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "padding x": {
+        "$type": "dimension",
+        "$value": "{space.unit.200}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2735:25406",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "padding y": {
+        "$type": "dimension",
+        "$value": "{space.unit.200}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2735:25407",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      }
+    },
+    "popover": {
+      "gap between": {
+        "$type": "dimension",
+        "$value": "{space.unit.100}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2305:35401",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "padding x": {
+        "$type": "dimension",
+        "$value": "{space.unit.200}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2305:35402",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "padding y": {
+        "$type": "dimension",
+        "$value": "{space.unit.100}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2305:35403",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      }
+    },
+    "tab": {
+      "gap between": {
+        "$type": "dimension",
+        "$value": "{space.unit.50}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36388",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "gap outside x": {
+        "$type": "dimension",
+        "$value": "{space.unit.50}",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36391",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "gap outside y": {
+        "$type": "dimension",
+        "$value": "{space.unit.100}",
+        "$description": "Spacing below tabs",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2750:28253",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "sm": {
+        "padding x": {
+          "$type": "dimension",
+          "$value": "{space.unit.100}",
+          "$description": "Use with detached tabs",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36389",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding y": {
+          "$type": "dimension",
+          "$value": "{space.unit.50}",
+          "$description": "Use with detached tabs",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36390",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        }
+      },
+      "lg": {
+        "padding x": {
+          "$type": "dimension",
+          "$value": "{space.unit.150}",
+          "$description": "Use with attached tabs",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:8242:4569",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding y": {
+          "$type": "dimension",
+          "$value": "{space.unit.150}",
+          "$description": "Use with attached tabs",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:8242:4570",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "table": {
+      "cell": {
+        "gap between": {
+          "$type": "dimension",
+          "$value": "{space.unit.100}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36397",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding x": {
+          "$type": "dimension",
+          "$value": "{space.unit.150}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36398",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding y": {
+          "$type": "dimension",
+          "$value": "{space.unit.100}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36399",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        }
+      },
+      "header": {
+        "gap between": {
+          "$type": "dimension",
+          "$value": "{space.unit.75}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36400",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding x": {
+          "$type": "dimension",
+          "$value": "{space.table.cell.padding x}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36402",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding y": {
+          "$type": "dimension",
+          "$value": "{space.table.cell.padding y}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36401",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        }
+      },
+      "subheader": {
+        "gap between": {
+          "$type": "dimension",
+          "$value": "{space.unit.75}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2381:35322",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding x": {
+          "$type": "dimension",
+          "$value": "{space.table.header.padding x}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2381:35323",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding top": {
+          "$type": "dimension",
+          "$value": "{space.unit.250}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2381:35324",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding bottom": {
+          "$type": "dimension",
+          "$value": "{space.unit.100}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2381:35325",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        }
+      },
+      "footer": {
+        "gap between": {
+          "$type": "dimension",
+          "$value": "{space.unit.100}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36409",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding x": {
+          "$type": "dimension",
+          "$value": "{space.table.header.padding x}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36410",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding y": {
+          "$type": "dimension",
+          "$value": "{space.table.header.padding y}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36411",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "spreadsheet": {
+      "cell": {
+        "gap between": {
+          "$type": "dimension",
+          "$value": "{space.unit.100}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36403",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding x": {
+          "$type": "dimension",
+          "$value": "{space.unit.100}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36405",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding y": {
+          "$type": "dimension",
+          "$value": "{space.unit.100}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36404",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        }
+      },
+      "header": {
+        "gap between": {
+          "$type": "dimension",
+          "$value": "{space.unit.100}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36406",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding x": {
+          "$type": "dimension",
+          "$value": "{space.unit.100}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36408",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        },
+        "padding y": {
+          "$type": "dimension",
+          "$value": "{space.unit.100}",
+          "$extensions": {
+            "com.figma": {
+              "variableId": "VariableID:2273:36407",
+              "collection": "Space Tokens",
+              "scopes": [
+                "GAP"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "unit": {
+      "0": {
+        "$type": "dimension",
+        "$value": {
+          "value": 0,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36348",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "25": {
+        "$type": "dimension",
+        "$value": {
+          "value": 2,
+          "unit": "px"
+        },
+        "$description": "-1 suffix",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36349",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "50": {
+        "$type": "dimension",
+        "$value": {
+          "value": 4,
+          "unit": "px"
+        },
+        "$description": "-2 suffix",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36350",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "75": {
+        "$type": "dimension",
+        "$value": {
+          "value": 6,
+          "unit": "px"
+        },
+        "$description": "-3 suffix",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36351",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "100": {
+        "$type": "dimension",
+        "$value": {
+          "value": 8,
+          "unit": "px"
+        },
+        "$description": "-4 suffix (base unit)",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36352",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "150": {
+        "$type": "dimension",
+        "$value": {
+          "value": 12,
+          "unit": "px"
+        },
+        "$description": "-5 suffix",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36353",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "200": {
+        "$type": "dimension",
+        "$value": {
+          "value": 16,
+          "unit": "px"
+        },
+        "$description": "-6 suffix",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36354",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "250": {
+        "$type": "dimension",
+        "$value": {
+          "value": 20,
+          "unit": "px"
+        },
+        "$description": "-7 suffix",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36355",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "300": {
+        "$type": "dimension",
+        "$value": {
+          "value": 24,
+          "unit": "px"
+        },
+        "$description": "-8 suffix",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36356",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "400": {
+        "$type": "dimension",
+        "$value": {
+          "value": 32,
+          "unit": "px"
+        },
+        "$description": "-9 suffix",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36357",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "500": {
+        "$type": "dimension",
+        "$value": {
+          "value": 40,
+          "unit": "px"
+        },
+        "$description": "-10 suffix",
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36358",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "600": {
+        "$type": "dimension",
+        "$value": {
+          "value": 48,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36359",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "800": {
+        "$type": "dimension",
+        "$value": {
+          "value": 64,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36361",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      },
+      "1000": {
+        "$type": "dimension",
+        "$value": {
+          "value": 80,
+          "unit": "px"
+        },
+        "$extensions": {
+          "com.figma": {
+            "variableId": "VariableID:2273:36360",
+            "collection": "Space Tokens",
+            "scopes": [
+              "GAP"
+            ]
+          }
+        }
+      }
+    },
+    "grid gap": {
+      "$type": "dimension",
+      "$value": "{space.unit.400}",
+      "$description": "Grid gutter width",
+      "$extensions": {
+        "com.figma": {
+          "variableId": "VariableID:5372:18818",
+          "collection": "Space Tokens",
+          "scopes": [
+            "GAP"
+          ]
+        }
+      }
+    }
+  }
+}
